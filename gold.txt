@@ -1,0 +1,973 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Gold Price | Price of Gold Per Ounce | Spot Silver Prices Today</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Check Gold Rates,Today&#039;s Gold price, gold quotes in all weight measurements and the gold price today. Gold price in USA, Canada in US Dollars, GBP Pounds &amp; Euros."/>
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://goldprice.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Gold Price | Price of Gold Per Ounce | Spot Silver Prices Today" />
+<meta property="og:description" content="Check Gold Rates,Today&#039;s Gold price, gold quotes in all weight measurements and the gold price today. Gold price in USA, Canada in US Dollars, GBP Pounds &amp; Euros." />
+<meta property="og:url" content="https://goldprice.com/" />
+<meta property="og:site_name" content="Gold Price" />
+<meta property="og:image" content="https://goldprice.com/wp-content/uploads/2019/07/Gold-Price-FB-Banner-06-1024x450.png" />
+<meta property="og:image:secure_url" content="https://goldprice.com/wp-content/uploads/2019/07/Gold-Price-FB-Banner-06-1024x450.png" />
+<meta property="og:image:width" content="1024" />
+<meta property="og:image:height" content="450" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Check Gold Rates,Today&#039;s Gold price, gold quotes in all weight measurements and the gold price today. Gold price in USA, Canada in US Dollars, GBP Pounds &amp; Euros." />
+<meta name="twitter:title" content="Gold Price | Price of Gold Per Ounce | Spot Silver Prices Today" />
+<meta name="twitter:image" content="https://goldprice.com/wp-content/uploads/2018/08/rotate-screen-icon.png" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://goldprice.com/#website","url":"https://goldprice.com/","name":"Gold Price","potentialAction":{"@type":"SearchAction","target":"https://goldprice.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://goldprice.com/#primaryimage","url":"https://goldprice.com/wp-content/uploads/2018/08/rotate-screen-icon.png","width":50,"height":50},{"@type":"WebPage","@id":"https://goldprice.com/#webpage","url":"https://goldprice.com/","inLanguage":"en-US","name":"Gold Price | Price of Gold Per Ounce | Spot Silver Prices Today","isPartOf":{"@id":"https://goldprice.com/#website"},"primaryImageOfPage":{"@id":"https://goldprice.com/#primaryimage"},"datePublished":"2019-06-03T21:59:24+00:00","dateModified":"2019-06-12T13:20:31+00:00","description":"Check Gold Rates,Today's Gold price, gold quotes in all weight measurements and the gold price today. Gold price in USA, Canada in US Dollars, GBP Pounds & Euros."}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Gold Price &raquo; Feed" href="https://goldprice.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Gold Price &raquo; Comments Feed" href="https://goldprice.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/goldprice.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.5"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://goldprice.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://goldprice.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='vc_lpd_elements-css'  href='https://goldprice.com/wp-content/plugins/lpd_vc_elements/assets/css/application.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='nfusion-front-css-css'  href='https://goldprice.com/wp-content/plugins/seo_widgets_3_1_11/css/nfusion-front.css?ver=1536863477' type='text/css' media='all' />
+<link rel='stylesheet' id='nfusion-flags-css-css'  href='https://goldprice.com/wp-content/plugins/seo_widgets_3_1_11/css/currency-flags.css?ver=1536863477' type='text/css' media='all' />
+<link rel='stylesheet' id='datatable-css-css'  href='https://goldprice.com/wp-content/plugins/seo_widgets_3_1_11/css/jquery.dataTables.min.css?ver=1536863477' type='text/css' media='all' />
+<link rel='stylesheet' id='datatable-button-css-css'  href='https://goldprice.com/wp-content/plugins/seo_widgets_3_1_11/css/buttons.dataTables.min.css?ver=1536863477' type='text/css' media='all' />
+<link rel='stylesheet' id='nfusion-fontawesome-css'  href='https://use.fontawesome.com/releases/v5.2.0/css/all.css?ver=5.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='borsen_application-css'  href='https://goldprice.com/wp-content/themes/borsen/assets/css/application.css?ver=1.0' type='text/css' media='all' />
+<style id='borsen_application-inline-css' type='text/css'>
+#main,body{background-color: rgba(255,255,255,1);} body{ font-family: Open Sans; font-style: normal; font-weight: 400; font-size: 16px; line-height: 1.7; letter-spacing: 0px; color: rgba(112,112,112,1); }a{color: rgba(183,148,78,1);}a:hover{color: rgba(91,83,81,1);} h1,h2,h3,h4,h5,h6{ font-family: Montserrat; font-style: normal; font-weight: 600; line-height: 1.2; letter-spacing: 0px; color: rgba(37,37,37,1); } input[type="submit"], .lpd_t_btn{ font-family: Open Sans; font-style: normal; font-weight: 700; letter-spacing: 0.8px; color: rgba(255,255,255,1); background-color: rgba(183,148,78,1); border-color: rgba(183,148,78,1); padding-top: 15px; padding-right: 35px; padding-bottom: 15px; padding-left: 35px; font-size: 13px; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; } .lpd_alt_t_btn{ color: rgba(37,37,37,1) !important; background-color: rgba(255,255,255,1) !important; border-color: #ffffff !important; } input[type="submit"], .lpd_t_btn{ text-transform: uppercase; } input[type="submit"]:hover, .lpd_t_btn:hover{ color: rgba(255,255,255,1); background-color: rgba(91,83,81,1); border-color: rgba(91,83,81,1); } .lpd_alt_t_btn:hover{ color: rgba(255,255,255,1) !important; background-color: #5b5351 !important; border-color: #5b5351 !important; } .lpd_t_btn-md{ padding-top: 8px; padding-right: 25px; padding-bottom: 8px; padding-left: 25px; font-size: 13px; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; } .lpd_t_btn-sm{ padding-top: 5px; padding-right: 20px; padding-bottom: 5px; padding-left: 20px; font-size: 13px; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; } .lpd_t_btn-animated:after{ background-color: rgba(91,83,81,1); } .lpd_t_btn-animated:hover{ background-color: rgba(183,148,78,1); } .lpd_alt_t_btn.lpd_t_btn-animated:after{ background-color: #5b5351; } .lpd_alt_t_btn.lpd_t_btn-animated:hover{ background-color: rgba(255,255,255,1) !important; } .lpd_vc_btn a, .lpd_vc_btn button{ font-family: Open Sans !important; font-style: normal !important; font-weight: 700 !important; letter-spacing: 0.8px !important; color: rgba(255,255,255,1) !important; background-color: rgba(183,148,78,1) !important; border-color: rgba(183,148,78,1) !important; padding-top: 15px !important; padding-right: 35px !important; padding-bottom: 15px !important; padding-left: 35px !important; font-size: 13px !important; -webkit-border-radius: 0px !important; -moz-border-radius: 0px !important; border-radius: 0px !important; } .lpd_alt_vc_btn a, .lpd_alt_vc_btn button{ color: rgba(37,37,37,1) !important; background-color: rgba(255,255,255,1) !important; border-color: #ffffff !important; } .lpd_vc_btn a, .lpd_vc_btn button{ text-transform: uppercase !important; } .lpd_vc_btn a:hover, .lpd_vc_btn button:hover{ color: rgba(255,255,255,1) !important; background-color: rgba(91,83,81,1) !important; border-color: rgba(91,83,81,1) !important; } .lpd_alt_vc_btn a:hover, .lpd_alt_vc_btn button:hover{ color: rgba(255,255,255,1) !important; background-color: #5b5351 !important; border-color: #5b5351 !important; } .lpd_vc_btn-md a, .lpd_vc_btn-md button{ padding-top: 8px !important; padding-right: 25px !important; padding-bottom: 8px !important; padding-left: 25px !important; font-size: 13px !important; -webkit-border-radius: 0px !important; -moz-border-radius: 0px !important; border-radius: 0px !important; } .lpd_vc_btn-sm a, .lpd_vc_btn-sm button{ padding-top: 5px !important; padding-right: 20px !important; padding-bottom: 5px !important; padding-left: 20px !important; font-size: 13px !important; -webkit-border-radius: 0px !important; -moz-border-radius: 0px !important; border-radius: 0px !important; } select, textarea, input[type="email"], input[type="date"], input[type="number"], input[type="tel"], input[type="url"], input[type="password"], input[type="text"], .theme-form{ color: rgba(37,37,37,1); padding-top: 12px; padding-right: 20px; padding-bottom: 12px; padding-left: 20px; border-color: rgba(235,235,235,1); background-color: rgba(255,255,255,1); } select:focus, textarea:focus, input[type="email"]:focus, input[type="date"]:focus, input[type="number"]:focus, input[type="tel"]:focus, input[type="url"]:focus, input[type="password"]:focus, input[type="text"]:focus, .theme-form:focus{ border-color: rgba(194,194,194,1); background-color: rgba(255,255,255,1); } label{ font-family: Open Sans; font-style: normal; font-weight: 400; font-size: 15px; letter-spacing: 0px; } .widget ul > li > a.rsswidget, .sidebar a{ color: rgba(183,148,78,1); } .widget ul > li > a.rsswidget:hover, .sidebar a:hover{ color: rgba(91,83,81,1); } .box_header, .widget-title{ font-family: Montserrat; font-style: normal; font-weight: 700; font-size: 16px; letter-spacing: 0px; color: #252525; } .tagcloud a, .widget ul > li > a{ color: rgba(183,148,78,1); } .tagcloud a:hover, .widget ul > li > a:hover{ color: rgba(91,83,81,1); } .widget_product_categories ul ul li .material-icons{ color: rgba(91,83,81,1); } .widget ul > li > a:after{ border-bottom-color: rgba(91,83,81,1); } .tagcloud a{ font-family: Open Sans; font-style: normal; font-weight: 400; font-size: 16px !important; letter-spacing: 0px; color: rgba(112,112,112,1) !important; } .tagcloud a:hover{ color: rgba(183,148,78,1) !important; } .inner-search-page .search-post-container-content h4 a{ font-family: Montserrat; font-style: normal; font-weight: 600; font-size: 18px; letter-spacing: 0px; color: rgba(37,37,37,1); } .inner-search-page .search-post-container-content h4 a:hover{ color: rgba(183,148,78,1); }.font-weight-600{font-weight: 600} #nav_menu-2 ul li{border: none; padding-top: 3px; padding-bottom: 3px;} /*bitcoin widget styles*/ #main .btcwdgt-chart .btcwdgt-header h2{ background-color: #5b5351 !important; } #main .btcwdgt-chart .btcwdgt-header{ background-color: #b7944e !important; } #main .btcwdgt-chart .btcwdgt-header h4, #main .btcwdgt-chart .btcwdgt-header .stats div{ color:rgba(255,255,255,0.7) !important; } /*price-label*/ .vcw.vcw-change-big-label, .vcw.vcw-price-big-label, .vcw.vcw-change-label, .vcw.vcw-price-label { border-top: 3px solid #b7944e !important; color: #252525 !important; background-color: #fff !important; border-radius: 0 !important; box-shadow: 0 4px 5px -2px rgba(0,0,0,.05), 0 7px 10px 1px rgba(0,0,0,.03), 0 2px 16px 1px rgba(0,0,0,.03) !important; padding: 10px !important; transition: box-shadow 0.2s ease-in-out; } .vcw.vcw-change-big-label:hover, .vcw.vcw-price-big-label:hover, .vcw.vcw-change-label:hover, .vcw.vcw-price-label:hover { box-shadow: 0 4px 5px -2px rgba(0,0,0,.1), 0 7px 10px 1px rgba(0,0,0,.07), 0 2px 16px 1px rgba(0,0,0,.06) !important; } /*full-card*/ .vcw.vcw-price-card, .vcw.vcw-change-card, .vcw.vcw-full-card { border-top: 3px solid #b7944e !important; color: #252525 !important; background-color: #fff !important; width: 100% !important; max-width: 400px !important; border-radius: 0 !important; box-shadow: 0 4px 5px -2px rgba(0,0,0,.05), 0 7px 10px 1px rgba(0,0,0,.03), 0 2px 16px 1px rgba(0,0,0,.03) !important; padding: 30px 20px 40px !important; transition: box-shadow 0.2s ease-in-out; } .vcw.vcw-price-card:hover, .vcw.vcw-change-card:hover, .vcw.vcw-full-card:hover { box-shadow: 0 4px 5px -2px rgba(0,0,0,.1), 0 7px 10px 1px rgba(0,0,0,.07), 0 2px 16px 1px rgba(0,0,0,.06) !important; } .vcw.vcw-price-card > .vcw-symbol, .vcw.vcw-change-card > .vcw-symbol, .vcw.vcw-full-card > .vcw-symbol{ font-size: 36px !important; line-height: 48px !important; } .vcw.vcw-full-card > .vcw-divider { margin: 15px 0 !important; border-top-color: #ebebeb !important; border-top-width: 1px !important; } .vcw.vcw-price-card > .vcw-name, .vcw.vcw-change-card > .vcw-name, .vcw.vcw-full-card > .vcw-name{ margin-bottom: 24px !important; } .vcw.vcw-price-card > .vcw-prices > .vcw-price > .vcw-currency, .vcw.vcw-full-card > .vcw-prices > .vcw-price > .vcw-currency { font-size: 16px !important; line-height: 20px !important; } .vcw.vcw-price-card > .vcw-prices > .vcw-price > .vcw-value, .vcw.vcw-full-card > .vcw-prices > .vcw-price > .vcw-value { font-size: 14px !important; line-height: 20px !important; } .vcw.vcw-change-card > .vcw-changes > .vcw-change > .vcw-title, .vcw.vcw-full-card > .vcw-changes > .vcw-change > .vcw-title{ font-size: 16px !important; line-height: 20px !important; } /*converter*/ .vcw.vcw-converter { border-top: 3px solid #b7944e !important; color: #252525 !important; background-color: #fff !important; border-radius: 0 !important; box-shadow: 0 4px 5px -2px rgba(0,0,0,.05), 0 7px 10px 1px rgba(0,0,0,.03), 0 2px 16px 1px rgba(0,0,0,.03) !important; padding: 20px !important; } .sidebar .vcw.vcw-converter{ padding: 0 !important; border-top: none !important; box-shadow: none !important; } /*table*/ .vcw.vcw-table{ background-color: transparent !important; box-shadow: 0 4px 5px -2px rgba(0,0,0,.05), 0 7px 10px 1px rgba(0,0,0,.03), 0 2px 16px 1px rgba(0,0,0,.03) !important; margin: 0 !important; padding: 0 !important; border-radius: 0 !important; } .vcw.vcw-table td, .vcw.vcw-table th { font-size: 17px !important; } .vcw.vcw-table .vcw-right{ text-align: left !important; } .vcw.vcw-table .vcw-symbol{ width: 15% !important; } .vcw.vcw-table .vcw-name{ width: 20% !important; } .vcw.vcw-table td:first-child, .vcw.vcw-table th:first-child { padding-left: 30px !important; } .vcw.vcw-table thead tr th{ color: #ffffff !important; background-color: #b7944e !important; height: 60px; } .vcw.vcw-table tbody tr td{ height: 60px; border-bottom: 1px solid #ebebeb !important; background-color: #ffff !important; } .vcw.vcw-table tbody tr:last-child td{ border-bottom: 0 !important; } .vcw.vcw-table td:last-child, .vcw.vcw-table th:last-child { padding-right: 0 !important; } /*small-table*/ .vcw.vcw-small-table{ background-color: transparent !important; box-shadow: 0 4px 5px -2px rgba(0,0,0,.05), 0 7px 10px 1px rgba(0,0,0,.03), 0 2px 16px 1px rgba(0,0,0,.03) !important; margin: 0 !important; padding: 0 !important; border-radius: 0 !important; max-width: 500px !important; } .vcw.vcw-small-table td, .vcw.vcw-small-table th { font-size: 17px !important; } .vcw.vcw-small-table .vcw-right{ text-align: left !important; width: 20% !important; } .vcw.vcw-small-table td:first-child, .vcw.vcw-small-table th:first-child { padding-left: 20px !important; } .vcw.vcw-small-table thead tr th{ color: #ffffff !important; background-color: #b7944e !important; height: 40px; } .vcw.vcw-small-table tbody tr td{ height: 40px; border-bottom: 1px solid #ebebeb !important; background-color: #ffff !important; } .vcw.vcw-small-table tbody tr:last-child td{ border-bottom: 0 !important; } .vcw.vcw-small-table td:last-child, .vcw.vcw-small-tabl th:last-child { padding-right: 0 !important; } /*Search Bar Fix*/ .overlay-close { top:55px !important; } .overlay-layer .panel-close-btn,sticky-slide-panel-toggle show { top:56px; } .sticky-slide-panel-toggle { top:52px !important; } /*Mailchimp Sidebar Style Updates*/ .mc4wp-form input[type="submit"] { margin-top:10px; width:100%; } /*Sitewide Ad Syle Overrides*/ .slide-panel-toggle { margin-top: 35px !important; } .gp-topsec-ad { max-height: unset !important; } /*Blog Styling*/ .single-format-standard h1, .single-format-standard h2, .single-format-standard h3, .single-format-standard h4, .single-format-standard h5 { margin-top:25px; } .front-blog-post .post-wrap { max-width:90vw; } @media only screen and (max-width: 768px) { .title-variant-1 #title .title h2 { font-size:42px !important; } .inner-blog-post .post-title > h3, .front-blog-post .post-title > h3 { font-size:28px !important; } } @media only screen and (max-width: 440px) { .front-blog-post .post-bottom .post-share-me { float:left; margin-top:25px; } } /*Home Page Style Updates*/ #gp-hm-txt-block h2, #gp-hm-txt-block h3, #gp-hm-txt-block h4 { margin-top:30px; } /*Portfolio Styling*/ .single-fw-portfolio h3 { color:#b7944e; margin-top:20px; } .fw-portfolio .post-meta { display:none; } /*Adspace Sizing*/ .bdy-txt-ad { max-height:100px; } /*Sidebar Ad Styles*/ .mnsb-ad1 { max-height:250px; } .mnsb-ad2 { max-height:600px; } /*Footer Style Fixes*/ #footer .widget ul li { border: none; padding-top: 3px; padding-bottom: 3px; } /*nFusion Single Price Widget Styles*/ .nfusion-table-content .single-price .metal-title { font-weight: 700; font-family: Montserrat; line-height: 28px; font-size: 26px; } .nfusion-single-price-widget .table-variations .single-variation-currency, .nfusion-single-price-widget .table-variations .single-variation-unit { margin-top:5px !important; } .nfusion-single-price-widget .nfusion-footer .nfunits {display:none;} .nfusion-table-content .single-price .table-variations { max-width:100%; } .nfusion-table-content .single-price .nfprice { color:#B7944E; font-weight:700; margin: 5px 0; } .nfusion-table-content .single-price { padding: 35px 0px; } .nfusion-table-content .single-price { border-top: 3px solid #b7944e; background-color: #ffffff; } /*nFusion Multi Currency Table Styles*/ .nfusion-table-content .nfusion-table .nfusion-inner-content { border-top: 3px solid #b7944e; padding: 0px; } .nfusion-multi-currency-table-widget.nfusion-table-content .nfusion-table { box-shadow:none; } .nfusion-multi-currency-table-widget.nfusion-table-content .nfusion-table { padding:10px 0px; } .nfusion-table-head { background: #EDEDED; color: #000; } /*nFusion Multi Unit Table Styles*/ .nfusion-multi-unit-table-widget.nfusion-table-content .nfusion-table { box-shadow:none; } .nfusion-multi-unit-table-widget.nfusion-table-content .nfusion-table { padding:10px 0px; } /*Live Price Widget Style Fix*/ #goldpriceiframe { border: 1px solid #adadad; box-shadow: 1px 1px 5px 0px rgba(204,204,204,1); } .goldpriceiframe { border: 1px solid #adadad; box-shadow: 1px 1px 5px 0px rgba(204,204,204,1); background-color:#ffffff; padding:2px; max-width: 330px; } /*Sticky Header Fixes*/ .stickyScroller {min-height: 45px;} .stickyInner { margin-bottom: -7px; position: fixed; top: 0; left: 0; z-index: 1000; min-width: 100vw; background-color: #fff; height: 47px; box-shadow: 1px 1px 5px 0px rgba(204,204,204,1); } /*TPM Sidebar Ad Styles*/ .tpm-sidebar-ad {border: 2px solid #B7944E; box-shadow:1px 1px 5px 0px rgba(204,204,204,1); text-align: left; padding:10px 10px 0px;} .tpm-sidebar-ad .tpm-ad-headline {font-size: 20px; line-height: 22px; color: #B7944E;font-weight: 600;font-family: Montserrat;} .tpm-sidebar-ad .tpm-ad-body {font-size: 14px;line-height: 16px; color: #000000;} .tpm-sidebar-ad-img {width:100%;height:auto;} .tpm-sidebar-ad .vc_btn3-container {margin-bottom: 15px; padding: 0px 5px;} #back-to-top{ color: rgba(255,255,255,1); background-color: rgba(183,148,78,1); height: 50px; width: 50px; line-height: 50px; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; margin-top: 20px; margin-right: 20px; margin-bottom: 57px; margin-left: 20px; } #back-to-top:hover{ color: rgba(255,255,255,1); background-color: rgba(91,83,81,1); } #back-to-top .icon{ font-size: 30px; }
+.meta-top .col-md-12{ border-bottom: 1px solid rgba(255,255,255,1); padding: 0 !important; } .meta-top .col-md-12:after { clear: both; } .meta-top .col-md-12:after { content: ""; display: table; } .meta-top .row{ margin: 0 !important; } .header-container .infobox-container{ margin-top: 45px; margin-right: 0px; margin-bottom: 0px; margin-left: 20px; } .header-container .infobox-container-wrap{ margin-right: 0px; margin-left: 20px; } .header-container .infobox-block{ padding-right: 0px; padding-left: 0px; background-color: rgba(255,255,255,0); } .header-container .infobox-block .infobox-block-content{ font-family: Open Sans; font-style: normal; font-weight: 400; font-size: 14px; letter-spacing: 0px; line-height: 20px; color: #ffffff !important; } .header-container .infobox-block .infobox-block-desc{ font-family: Open Sans; font-style: normal; font-weight: 700; font-size: 16px; letter-spacing: 0px; line-height: 20px; color: #ffffff !important; } .header-container .infobox-block-icon{ color: rgba(183,148,78,1); top:5px; } .header-container .infobox-container.infobox-container-2{ margin-top: 45px; margin-right: 0px; margin-bottom: 0px; margin-left: 20px; } .header-container.infobox-container-2 .infobox-container-wrap{ margin-right: 0px; margin-left: 20px; } .header-container.infobox-container-2 .infobox-block{ padding-right: 0px; padding-left: 0px; background-color: rgba(255,255,255,0); } .header-container .infobox-container-2 .infobox-block .infobox-block-content{ font-family: Open Sans; font-style: normal; font-weight: 400; font-size: 14px; letter-spacing: 0px; line-height: 20px; color: #ffffff !important; } .header-container .infobox-container-2 .infobox-block .infobox-block-desc{ font-family: Open Sans; font-style: normal; font-weight: 700; font-size: 16px; letter-spacing: 0px; line-height: 20px; color: #ffffff !important; } .header-container .infobox-container-2 .infobox-block-icon{ color: rgba(183,148,78,1); top:5px; } .header-container .infobox-container.infobox-container-3{ margin-top: 45px; margin-right: 0px; margin-bottom: 0px; margin-left: 20px; } .header-container.infobox-container-3 .infobox-container-wrap{ margin-right: 0px; margin-left: 20px; } .header-container.infobox-container-3 .infobox-block{ padding-right: 0px; padding-left: 0px; background-color: rgba(255,255,255,0); } .header-container .infobox-container-3 .infobox-block .infobox-block-content{ font-family: Open Sans; font-style: normal; font-weight: 400; font-size: 14px; letter-spacing: 0px; line-height: 20px; color: #ffffff !important; } .header-container .infobox-container-3 .infobox-block .infobox-block-desc{ font-family: Open Sans; font-style: normal; font-weight: 700; font-size: 16px; letter-spacing: 0px; line-height: 20px; color: #ffffff !important; } .header-container .infobox-container-3 .infobox-block-icon{ color: rgba(183,148,78,1); top:5px; } #header{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;} .header-main{border-bottom-color: rgba(255,255,255,0.08);border-bottom-style: solid;border-bottom-width: 1px;} .header-main{background-color: rgba(255,255,255,0);} .header-container .image-logo .logo{ padding-top: 35px; padding-right: 0px; padding-bottom: 35px; padding-left: 20px; } .header-container #logo{ min-width: 220px; } .header-container .lpdmenu{margin-right: 0px; margin-left: 18px;} .header-container .lpdmenu-list > li{ padding-top: 0px; padding-right: 12px; padding-bottom: 0px; padding-left: 12px; } .header-container .lpdmenu-list > li > a > span{ padding-right: 0px; padding-left: 0px; background-color: rgba(255,255,255,0); -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; } .header-container .lpdmenu-list > li.current_page_parent > a > span,.header-container .lpdmenu-list > li.current-menu-ancestor > a > span,.header-container .lpdmenu-list > li.current-menu-parent > a > span,.header-container .lpdmenu-list > li.current_page_ancestor > a > span,.header-container .lpdmenu-list > li.current-menu-item > a > span,.header-container .lpdmenu-list > li > a.active > span{ background-color: rgba(255,255,255,0); } .header-container .lpdmenu-list > li.current_page_parent > a > span,.header-container .lpdmenu-list > li.current-menu-ancestor > a > span,.header-container .lpdmenu-list > li.current-menu-parent > a > span,.header-container .lpdmenu-list > li.current_page_ancestor > a > span,.header-container .lpdmenu-list > li.current-menu-item > a > span,.header-container .lpdmenu-list > li:hover > a > span,.header-container .lpdmenu-list > li > a:hover > span,.header-container .lpdmenu-list > li > a.active > span{ border-top-color:rgba(24,186,96,1); } .header-container .lpdmenu-list > li > a > span{ border-bottom:3px solid rgba(255,255,255,0); } .header-container .lpdmenu-list > li.current_page_parent > a > span, .header-container .lpdmenu-list > li.current-menu-ancestor > a > span, .header-container .lpdmenu-list > li.current-menu-parent > a > span, .header-container .lpdmenu-list > li.current_page_ancestor > a > span, .header-container .lpdmenu-list > li.current-menu-item > a > span, .header-container .lpdmenu-list > li:hover > a > span, .header-container .lpdmenu-list > li > a:hover > span, .header-container .lpdmenu-list > li > a.active > span{ border-bottom-color:rgba(255,255,255,1); } .header-container .lpdmenu-list > li > a{ font-family: Montserrat; font-style: normal; font-weight: 600; font-size: 16px; letter-spacing: 0px; line-height: 110px; color: rgba(255,255,255,0.6); } .header-container .lpdmenu-list > li.current_page_parent > a,.header-container .lpdmenu-list > li.current-menu-ancestor > a,.header-container .lpdmenu-list > li.current-menu-parent > a,.header-container .lpdmenu-list > li.current_page_ancestor > a,.header-container .lpdmenu-list > li.current-menu-item > a,.lpdmenu-list > li:hover > a,.header-container .lpdmenu-list > li > a:hover,.header-container .lpdmenu-list > li > a.active{ color: rgba(255,255,255,1); }.slide-panel-toggle span, .slide-panel-toggle span:before, .slide-panel-toggle span:after { background-color: rgba(255,255,255,0.6); } .slide-panel-toggle:hover span, .slide-panel-toggle:hover span:before, .slide-panel-toggle:hover span:after { background-color: rgba(255,255,255,1); } .nav-megamenu-type-2 .lpdmenu-list .megamenu .link-list li.menu-item a, .nav-submenu-type-2 .lpdmenu-list .lpdmenu-submenu li a, .nav-megamenu-type-1 .lpdmenu-list .megamenu .link-list li.menu-item a, .nav-submenu-type-1 .lpdmenu-list .lpdmenu-submenu li a{ font-family: Open Sans; font-style: normal; font-weight: 400; font-size: 15px; line-height: 1.5; letter-spacing: 0px; color: rgba(37,37,37,1); } .nav-megamenu-type-2 .lpdmenu-list .megamenu .link-list li.menu-item a:active, .nav-megamenu-type-2 .lpdmenu-list .megamenu .link-list li.menu-item a:hover, .nav-submenu-type-2 .lpdmenu-list .lpdmenu-submenu li a.active, .nav-submenu-type-2 .lpdmenu-list .lpdmenu-submenu li a:hover, .nav-megamenu-type-1 .lpdmenu-list .megamenu .link-list li.menu-item a:active, .nav-megamenu-type-1 .lpdmenu-list .megamenu .link-list li.menu-item a:hover, .nav-submenu-type-1 .lpdmenu-list .lpdmenu-submenu li a.active, .nav-submenu-type-1 .lpdmenu-list .lpdmenu-submenu li a:hover{ color: rgba(183,148,78,1); } .nav-megamenu-type-2 .lpdmenu-list .megamenu li.title, .nav-megamenu-type-1 .lpdmenu-list .megamenu li.title{ font-family: Open Sans; font-style: normal; font-weight: 700; font-size: 15px; letter-spacing: 0px; color: #252525; } #header .search-container{ margin-top: 37px; margin-right: 0px; margin-bottom: 0px; margin-left: 20px; } #header .search-btn{ margin-right: 0px; margin-left: 20px; } #header .search-btn > div{ width: 40px; color: rgba(255,255,255,1); background-color: rgba(255,255,255,0); } #header .search-btn > div:hover{ color: #b7944e; background-color: rgba(255,255,255,0); } #header .search-btn span{ font-size: 16px; } .header-container .message-container{ margin-top: 45px; margin-right: 0px; margin-bottom: 0px; margin-left: 30px; } .header-container .message-container:before{ position: absolute; top: 50%; left: 0; width: 1px; height: 30px; margin-top:-15px; background-color: rgba(255,255,255,0.15); content: ""; } .header-container .message-container-wrap{ margin-right: 0px; margin-left: 30px; } .header-container .message-block{ font-family: Open Sans; font-style: normal; font-weight: 700; font-size: 12px; letter-spacing: 0.8px; color: #ffffff !important; padding-right: 20px; padding-left: 20px; background-color: #b7944e; } .header-container .message-block u{ color: rgba(255,255,255,1) !important; } .lpdmobmenu-click i{ color: rgba(255,255,255,1); } #slide-panel .slide-panel-wrap{ background-color: rgba(61,53,51,1); } .lpdmobmenu > .lpdmobmenu-list > li > a{ font-family: Montserrat; font-style: normal; font-weight: 600; font-size: 16px; letter-spacing: 0px; color: rgba(255,255,255,1); } .lpdmobmenu > .lpdmobmenu-list > li.current_page_parent > a, .lpdmobmenu > .lpdmobmenu-list > li.current-menu-ancestor > a, .lpdmobmenu > .lpdmobmenu-list > li.current-menu-parent > a, .lpdmobmenu > .lpdmobmenu-list > li.current_page_ancestor > a, .lpdmobmenu > .lpdmobmenu-list > li.current-menu-item > a, .lpdmobmenu > .lpdmobmenu-list > li > a.active, .lpdmobmenu > .lpdmobmenu-list > li:hover > a{ color: rgba(183,148,78,1); } .lpdmobmenu .megamenu > ul > li > a, .lpdmobmenu .lpdmobmenu-submenu li a{ font-family: Open Sans !important; font-style: normal !important; font-weight: 400 !important; font-size: 15px !important; letter-spacing: 0px !important; color: rgba(183,148,78,1) !important; } .lpdmobmenu .megamenu > ul > li.current_page_parent > a, .lpdmobmenu .megamenu > ul > li.current-menu-ancestor > a, .lpdmobmenu .megamenu > ul > li.current-menu-parent > a, .lpdmobmenu .megamenu > ul > li.current_page_ancestor > a, .lpdmobmenu .megamenu > ul > li.current-menu-item > a, .lpdmobmenu .megamenu > ul > li > a:hover, .lpdmobmenu .lpdmobmenu-submenu li.current_page_parent > a, .lpdmobmenu .lpdmobmenu-submenu li.current-menu-ancestor > a, .lpdmobmenu .lpdmobmenu-submenu li.current-menu-parent > a, .lpdmobmenu .lpdmobmenu-submenu li.current_page_ancestor > a, .lpdmobmenu .lpdmobmenu-submenu li.current-menu-item > a, .lpdmobmenu .lpdmobmenu-submenu li a:hover, .lpdmobmenu .lpdmobmenu-submenu li a:active, .lpdmobmenu .lpdmobmenu-submenu li:hover > a{ color: rgba(91,83,81,1) !important; } .lpdmobmenu .megamenu ul li.title{ font-family: Open Sans !important; font-style: normal !important; font-weight: 600 !important; font-size: 15px !important; letter-spacing: 0px !important; color: rgba(37,37,37,1) !important; } .slide-panel-toggle{ margin-top: 55px; margin-right: 15px; margin-bottom: 15px; margin-left: 15px; } .sticky-slide-panel-toggle .slide-panel-toggle span,.sticky-slide-panel-toggle .slide-panel-toggle span:before,.sticky-slide-panel-toggle .slide-panel-toggle span:after { background-color: rgba(37,37,37,1); } .sticky-slide-panel-toggle .slide-panel-toggle:hover span,.sticky-slide-panel-toggle .slide-panel-toggle:hover span:before,.sticky-slide-panel-toggle .slide-panel-toggle:hover span:after { background-color: rgba(183,148,78,1); } .meta-top{ background-color: rgba(255,255,255,1); } .meta-top .top-meta-menu-1{ margin-top: 0px; margin-left: 0px; margin-bottom: 0px; margin-right: 0px; } .meta-top .top-meta-menu-1 li a{ font-family: Open Sans; font-style: normal; font-weight: 400; font-size: 16px; line-height: 60px; letter-spacing: 0px; color: rgba(48,46,60,1); } .meta-top .top-meta-menu-1 li a:hover{ color: rgba(48,46,60,1); } .meta-top .top-meta-menu-1 li a .material-icons{ color: rgba(48,46,60,1); } .meta-top .top-meta-menu-1 li{ border-right-color: rgba(255,255,255,0); }
+.title-variant-1 #title > .container{padding-top: 200px; padding-bottom: 40px;} .title-variant-1 #title .title h2{ font-family: Montserrat; font-style: normal; font-weight: 600; font-size: 72px; letter-spacing: 0px; color: #ffffff; } .title-variant-1 #title .breadcrumb{ font-family: Open Sans; font-style: normal; font-weight: 400; font-size: 15px; letter-spacing: 0px; } .title-variant-1 #title .bradcrumb-top{ padding-top: 25px; padding-bottom: 25px; background-color: rgba(250,250,250,1); } .title-variant-1 #title .breadcrumb{ color: rgba(37,37,37,1); } .title-variant-1 #title .bradcrumb-top i, .title-variant-1 #title .material-icons, .title-variant-1 #title .breadcrumb a{ color: rgba(183,148,78,1); } .title-variant-1 #title .breadcrumb a:hover{ color: rgba(183,148,78,1); } .title-variant-1 #title .title .title-description{ font-family: Open Sans; font-style: normal; font-weight: 400; font-size: 14px; letter-spacing: 2px; color: #ffffff; }
+#footer{ font-family: Open Sans; font-style: normal; font-weight: 400; font-size: 16px; letter-spacing: 0.3px; color: rgba(255,255,255,0.6); } #footer a{ color: rgba(255,255,255,1); } #footer a:hover{ color: #b7944e; } #footer .middle-section{ padding-top: 100px; padding-bottom: 60px; } #footer{ background-color: #252525; } #footer .bottom-section{ font-family: Open Sans; font-style: normal; font-weight: 400; font-size: 16px; letter-spacing: 0.3px; background-color: #111111; color: rgba(255,255,255,0.4); padding-top: 20px; padding-bottom: 47px; } #footer .bottom-section a{ color: rgba(255,255,255,0.4); } #footer .bottom-section a:hover{ color: rgba(255,255,255,0.7); } #footer .widget-title{ font-family: Montserrat; font-style: normal; font-weight: 700; font-size: 19px; letter-spacing: 0px; color: rgba(255,255,255,1); } #footer .tagcloud a, #footer .widget ul > li > a{ color: rgba(255,255,255,0.8); } #footer .tagcloud a:hover, #footer .widget ul > li > a:hover{ color: #b7944e; } #footer .widget ul > li > a:after{ border-bottom-color: #b7944e; } #footer .widget ul li{ border-color: rgba(255,255,255,0.1); } #footer .call-to-action{ padding-top: 70px; padding-bottom: 70px; } #footer .call-to-action{ background-color: #b7944e; } #footer .call-to-action h4{ font-family: Montserrat; font-style: normal; font-weight: 600; font-size: 30px; letter-spacing: 0px; color: rgba(255,255,255,1); }
+.front-blog-post .post a{ color: rgba(183,148,78,1); } .front-blog-post .post a:hover{ color: rgba(91,83,81,1); } .front-blog-post .post-title > span{ background-color: rgba(183,148,78,1); } .inner-blog-post .post-title > h3, .front-blog-post .post-title > h3{ font-family: Montserrat; font-style: normal; font-weight: 600; font-size: 36px; letter-spacing: 0px; color: #252525; } .front-blog-post .post-title > h3 a{ color: rgba(37,37,37,1); } .front-blog-post .post-title > h3 a:hover{ color: rgba(183,148,78,1); } .front-blog-post .post-meta ul li{ font-family: Montserrat; font-style: normal; font-weight: 700; font-size: 12px; letter-spacing: 1px; } .front-blog-post .post-bottom .lpd_t_btn{ font-family: Open Sans; font-style: normal; font-weight: 700; font-size: 13px; letter-spacing: 0.8px; color: rgba(255,255,255,1); background-color: rgba(183,148,78,1); border-color: rgba(183,148,78,1); } .front-blog-post .post-bottom .lpd_t_btn:hover{ color: rgba(255,255,255,1); background-color: rgba(91,83,81,1); border-color: rgba(91,83,81,1); } .front-blog-post .post-bottom .lpd_t_btn.lpd_t_btn-animated:after{ background-color: rgba(91,83,81,1); } .front-blog-post .post-bottom .lpd_t_btn.lpd_t_btn-animated:hover{ background-color: rgba(183,148,78,1); } .inner-blog-post a{ color: rgba(183,148,78,1); } .inner-blog-post a:hover{ color: rgba(91,83,81,1); } .inner-blog-post .post-title > span{ background-color: rgba(183,148,78,1); } .post-tags, .inner-blog-post .post-meta ul li{ font-family: Montserrat; font-style: normal; font-weight: 700; font-size: 12px; letter-spacing: 1px; } .inner-blog-post .post-author .author-info h3{ font-family: Montserrat; font-style: normal; font-weight: 700; font-size: 16px; letter-spacing: 0px; } .single-service .post-footer-navigation a, .inner-blog-post .post-footer-navigation a{ font-family: Montserrat; font-style: normal; font-weight: 700; font-size: 12px; letter-spacing: 1px; color: rgba(149,149,149,1); }.single-service .post-footer-navigation a:hover,.inner-blog-post .post-footer-navigation a:hover{color:rgba(183,148,78,1);}.single-service .post-footer-navigation a:hover .icon-wrap,.inner-blog-post .post-footer-navigation a:hover .icon-wrap{background-color:rgba(183,148,78,1);} .inner-blog-post .related-post-container-content h4 a{ font-family: Montserrat; font-style: normal; font-weight: 700; font-size: 16px; letter-spacing: 0px; color: rgba(37,37,37,1); } .inner-blog-post .related-post-container-content h4 a:hover{ color: rgba(183,148,78,1); } .inner-blog-post .related-post-container .related-post-container-meta .material-icons{ color: rgba(183,148,78,1); } .inner-comment-page .comments-area a{ color: rgba(183,148,78,1); } .inner-comment-page .comments-area a:hover{ color: rgba(91,83,81,1); } .inner-comment-page .comments-area .comment-list .comment-meta ul li.author, .inner-comment-page .comments-area .comment-list .comment-meta ul li.author a{ color: rgba(183,148,78,1); } .inner-comment-page .comments-area .comment-list .avatar-wrap > span{ background-color: rgba(183,148,78,1); } .inner-comment-page .comments-area .comment-list .comment-meta ul li.author, .inner-comment-page .comments-area .comment-list .comment-meta ul li.author a{ font-family: Montserrat; font-style: normal; font-weight: 700; font-size: 16px; letter-spacing: 0px; } .inner-comment-page .comments-area .comment-list .comment-meta .reply a{ font-family: Montserrat; font-style: normal; font-weight: 700; font-size: 13px; letter-spacing: 0px; } .inner-comment-page .comments-area .comment-list .comment-meta .reply a{ background-color: rgba(183,148,78,1); } .inner-comment-page .comments-area .comment-list .comment-meta .reply a:hover{ background-color: rgba(91,83,81,1); } .inner-comment-page .comment-form label{ font-family: Open Sans; font-style: normal; font-weight: 400; font-size: 16px; letter-spacing: 0px; } .inner-comment-page .comment-form .lpd_t_btn{ font-family: Open Sans; font-style: normal; font-weight: 700; font-size: 13px; letter-spacing: 0.8px; background-color: rgba(183,148,78,1); border-color: rgba(183,148,78,1); color: rgba(255,255,255,1); } .inner-comment-page .comment-form .lpd_t_btn:hover, .inner-comment-page .comment-form .lpd_t_btn:active, .inner-comment-page .comment-form .lpd_t_btn:focus{ background-color: rgba(91,83,81,1); color: rgba(255,255,255,1); border-color: rgba(91,83,81,1); }
+.inner-portfolio-post .related-post-container-content h4 a{ font-family: Montserrat; font-style: normal; font-weight: 700; font-size: 18px; letter-spacing: 0px; color: #252525; } .inner-portfolio-post .related-post-container-content h4 a:hover{ color: #b7944e; } .inner-portfolio-post .related-post-container .related-post-container-meta a{ font-family: Montserrat; font-style: normal; font-weight: 700; font-size: 12px; letter-spacing: 1px; } .inner-portfolio-post a{ color: #b7944e; } .inner-portfolio-post a:hover{ color: #5b5351; } .inner-portfolio-post .related-post-container .related-post-container-meta .material-icons{ color: #b7944e; } .theme-default .nivo-controlNav a.active{ border-color: #b7944e; } .theme-default .nivo-directionNav a{ background-color: #b7944e; } .inner-portfolio-post .post-footer-navigation a{ font-family: Montserrat; font-style: normal; font-weight: 700; font-size: 12px; letter-spacing: 1px; color: rgba(149,149,149,1); }.inner-portfolio-post .post-footer-navigation a:hover{color:#b7944e;}
+select.wpcf7-form-control, textarea.wpcf7-form-control, input[type="email"].wpcf7-form-control, input[type="date"].wpcf7-form-control, input[type="number"].wpcf7-form-control, input[type="tel"].wpcf7-form-control, input[type="url"].wpcf7-form-control, input[type="email"].wpcf7-form-control, input[type="text"].wpcf7-form-control{ border-color: rgba(235,235,235,1); background-color: rgba(255,255,255,1); } select.wpcf7-form-control:focus, textarea.wpcf7-form-control:focus, input[type="email"].wpcf7-form-control:focus, input[type="date"].wpcf7-form-control:focus, input[type="number"].wpcf7-form-control:focus, input[type="tel"].wpcf7-form-control:focus, input[type="url"].wpcf7-form-control:focus, input[type="email"].wpcf7-form-control:focus, input[type="text"].wpcf7-form-control:focus{ border-color: rgba(194,194,194,1); background-color: rgba(255,255,255,1); } .wpcf7-form label{ font-family: Open Sans; font-style: normal; font-weight: 400; font-size: 15px; letter-spacing: 0px; color: rgba(112,112,112,1); } select.wpcf7-form-control, textarea.wpcf7-form-control, input[type="email"].wpcf7-form-control, input[type="date"].wpcf7-form-control, input[type="number"].wpcf7-form-control, input[type="tel"].wpcf7-form-control, input[type="url"].wpcf7-form-control, input[type="email"].wpcf7-form-control, input[type="text"].wpcf7-form-control{ color: rgba(37,37,37,0.8); } .wpcf7-form-control::-moz-placeholder{ color: rgba(37,37,37,0.5); } .wpcf7-form-control:-ms-input-placeholder{ color: rgba(37,37,37,0.5); } .wpcf7-form-control::-webkit-input-placeholder{ color: rgba(37,37,37,0.5); } span.wpcf7-list-item{ display: inline-block; margin-left: 0; margin-right: 5px; margin-bottom: 5px; padding: 10px 20px; } span.wpcf7-list-item.last{ margin-right: 0; } span.wpcf7-list-item input[type="checkbox"]{ margin-right: 5px; } input.wpcf7-form-control[type="submit"]{ font-family: Open Sans; font-style: normal; font-weight: 700; font-size: 13px; letter-spacing: 0.8px; background-color: rgba(183,148,78,1); border-color: rgba(183,148,78,1); color: #ffffff; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; } input.wpcf7-form-control[type="submit"]:hover, input.wpcf7-form-control[type="submit"]:active, input.wpcf7-form-control[type="submit"]:focus{ background-color: rgba(91,83,81,1); border-color: #5b5351; color: rgba(255,255,255,1); } .wpcf7-form.secondary-style select.wpcf7-form-control, .wpcf7-form.secondary-style textarea.wpcf7-form-control, .wpcf7-form.secondary-style input[type="email"].wpcf7-form-control, .wpcf7-form.secondary-style input[type="date"].wpcf7-form-control, .wpcf7-form.secondary-style input[type="number"].wpcf7-form-control, .wpcf7-form.secondary-style input[type="tel"].wpcf7-form-control, .wpcf7-form.secondary-style input[type="url"].wpcf7-form-control, .wpcf7-form.secondary-style input[type="email"].wpcf7-form-control, .wpcf7-form.secondary-style input[type="text"].wpcf7-form-control{ border-color: rgba(0,0,0,0.05); background-color: rgba(0,0,0,0.1); } .wpcf7-form.secondary-style select.wpcf7-form-control:focus, .wpcf7-form.secondary-style textarea.wpcf7-form-control:focus, .wpcf7-form.secondary-style input[type="email"].wpcf7-form-control:focus, .wpcf7-form.secondary-style input[type="date"].wpcf7-form-control:focus, .wpcf7-form.secondary-style input[type="number"].wpcf7-form-control:focus, .wpcf7-form.secondary-style input[type="tel"].wpcf7-form-control:focus, .wpcf7-form.secondary-style input[type="url"].wpcf7-form-control:focus, .wpcf7-form.secondary-style input[type="email"].wpcf7-form-control:focus, .wpcf7-form.secondary-style input[type="text"].wpcf7-form-control:focus{ border-color: rgba(0,0,0,0.1); background-color: rgba(0,0,0,0.1); } .wpcf7-form.secondary-style label{ font-family: Open Sans; font-style: normal; font-weight: 400; font-size: 15px; letter-spacing: 0px; color: #ffffff; } .wpcf7-form.secondary-style select.wpcf7-form-control, .wpcf7-form.secondary-style textarea.wpcf7-form-control, .wpcf7-form.secondary-style input[type="email"].wpcf7-form-control, .wpcf7-form.secondary-style input[type="date"].wpcf7-form-control, .wpcf7-form.secondary-style input[type="number"].wpcf7-form-control, .wpcf7-form.secondary-style input[type="tel"].wpcf7-form-control, .wpcf7-form.secondary-style input[type="url"].wpcf7-form-control, .wpcf7-form.secondary-style input[type="email"].wpcf7-form-control, .wpcf7-form.secondary-style input[type="text"].wpcf7-form-control{ color: #ffffff; } .wpcf7-form.secondary-style .wpcf7-form-control::-webkit-input-placeholder{ color: #ffffff; } .wpcf7-form.secondary-style .wpcf7-form-control:-ms-input-placeholder{ color: #ffffff; } .wpcf7-form.secondary-style .wpcf7-form-control::-moz-placeholder{ color: #ffffff; } .wpcf7-form.secondary-style input.wpcf7-form-control[type="submit"]{ font-family: Open Sans; font-style: normal; font-weight: 700; font-size: 13px; letter-spacing: 0.8px; background-color: #ffffff; border-color: #ffffff; color: #252525; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; } .wpcf7-form.secondary-style input.wpcf7-form-control[type="submit"]:hover, .wpcf7-form.secondary-style input.wpcf7-form-control[type="submit"]:active, .wpcf7-form.secondary-style input.wpcf7-form-control[type="submit"]:focus{ background-color: rgba(91,83,81,1); border-color: #5b5351; color: rgba(255,255,255,1); }
+.widget .newsletter-content h4{ font-family: Open Sans; font-style: italic; font-weight: 600; font-size: 20px; letter-spacing: 0px; color: #252525; } .widget .newsletter-content p{ font-family: Open Sans; font-style: normal; font-weight: 400; font-size: 15px; letter-spacing: 0px; color: #707070; } .widget .mc4wp-form{ background-color: rgba(255,255,255,1); border: 1px solid rgba(225,225,225,1); padding-top: 10px; padding-bottom: 20px; padding-left: 20px; padding-right: 20px; margin-top: 0px; margin-bottom: 0px; } .widget .newsletter-form input[type="submit"]{ color: rgba(255,255,255,1); background-color: rgba(183,148,78,1); border-color: transparent; } .widget .newsletter-form input[type="submit"]:hover{ color: rgba(255,255,255,1); background-color: rgba(91,83,81,1); border-color: transparent; } .widget .social-icons-container > ul > li > a{ background-color: rgba(255,255,255,1) !important; color: #3d3533 !important; border: 1px solid rgba(235,235,235,1); } .widget .social-icons-container > ul > li > a:hover{ color: #b7944e !important; border: 1px solid rgba(235,235,235,1) !important; } .widget .social-icons-container > ul > li > a span.bg-overlay{ background-color: rgba(255,255,255,1); } .widget .social-icons-container > ul > li > a .tooltip-container{ background-color: rgba(37,37,37,1); font-size: 16px; } .widget .social-icons-container > ul > li > a .tooltip-container:after{ border-left-color: rgba(37,37,37,1); } .social-container .social-icons-container > ul > li > a .tooltip-container{ font-family: Open Sans; } .widget_borsen_posts_widget h4.title{ font-family: Open Sans; font-style: normal; font-weight: 400; font-size: 16px; letter-spacing: 0px; color: rgba(183,148,78,1); } .widget_borsen_posts_widget a:hover h4.title{ color: rgba(91,83,81,1); } .widget_borsen_posts_widget .mw-date{ font-family: Montserrat; font-style: normal; font-weight: 700; font-size: 12px; letter-spacing: 1px; color: rgba(112,112,112,1); }
+</style>
+<link rel='stylesheet' id='lpd_mdi-css'  href='https://fonts.googleapis.com/icon?family=Material+Icons&#038;ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='fw-ext-breadcrumbs-add-css-css'  href='https://goldprice.com/wp-content/plugins/unyson/framework/extensions/breadcrumbs/static/css/style.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='https://goldprice.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='enlighter-local-css'  href='https://goldprice.com/wp-content/plugins/enlighter/resources/EnlighterJS.min.css?ver=3.10.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://goldprice.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://goldprice.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://goldprice.com/wp-content/plugins/seo_widgets_3_1_11/js/jquery.dataTables.min.js?ver=1536863477'></script>
+<script type='text/javascript' src='https://goldprice.com/wp-content/plugins/seo_widgets_3_1_11/js/dataTables.buttons.min.js?ver=1536863477'></script>
+<script type='text/javascript' src='https://goldprice.com/wp-content/plugins/seo_widgets_3_1_11/js/buttons.flash.min.js?ver=1536863477'></script>
+<script type='text/javascript' src='https://goldprice.com/wp-content/plugins/seo_widgets_3_1_11/js/buttons.html5.min.js?ver=1536863477'></script>
+<script type='text/javascript' src='https://goldprice.com/wp-content/plugins/seo_widgets_3_1_11/js/buttons.print.min.js?ver=1536863477'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var nfusion = {"ajaxurl":"https:\/\/goldprice.com\/wp-admin\/admin-ajax.php","gold":"Gold","silver":"Silver","platinum":"Platinum","palladium":"Palladium","am":"AM","pm":"PM","date":"Date"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://goldprice.com/wp-content/plugins/seo_widgets_3_1_11/js/custom-front.js?ver=1536863477'></script>
+<script type='text/javascript' src='https://goldprice.com/wp-content/themes/borsen/assets/js/prefixfree.js?ver=1.0'></script>
+<script type='text/javascript' src='https://goldprice.com/wp-content/themes/borsen/assets/js/prettyPhoto.js?ver=1.0'></script>
+<script type='text/javascript' src='https://goldprice.com/wp-content/themes/borsen/assets/js/waypoints.js?ver=1.0'></script>
+<script type='text/javascript' src='https://goldprice.com/wp-content/themes/borsen/assets/js/skrollr.js?ver=1.0'></script>
+<script type='text/javascript' src='https://goldprice.com/wp-content/themes/borsen/assets/js/bootstrap.js?ver=1.0'></script>
+<script type='text/javascript' src='https://goldprice.com/wp-content/themes/borsen/assets/js/functions.js?ver=1.0'></script>
+<link rel='https://api.w.org/' href='https://goldprice.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://goldprice.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://goldprice.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.5" />
+<link rel='shortlink' href='https://goldprice.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://goldprice.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgoldprice.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://goldprice.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgoldprice.com%2F&#038;format=xml" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//goldprice.com/?wordfence_lh=1&hid=BEDC1FAF9DE68724D8766472F2262AB5');
+</script><script>
+	(function (i, s, o, g, r, a, m) {
+		i['GoogleAnalyticsObject'] = r;
+		i[r] = i[r] || function () {
+			(i[r].q = i[r].q || []).push(arguments)
+		}, i[r].l = 1 * new Date();
+		a = s.createElement(o),
+			m = s.getElementsByTagName(o)[0];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore(a, m)
+	})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+	ga('create', 'UA-41317528-1', 'auto');
+	ga('send', 'pageview');
+
+</script><style type="text/css">/* Mailchimp for WP - Checkbox Styles */
+.mc4wp-checkbox-contact-form-7 {
+  clear: both;
+  display: block;
+  position: static;
+  width: auto; }
+  .mc4wp-checkbox-contact-form-7 input {
+    float: none;
+    width: auto;
+    position: static;
+    margin: 0 6px 0 0;
+    padding: 0;
+    vertical-align: middle;
+    display: inline-block !important;
+    max-width: 21px;
+    -webkit-appearance: checkbox; }
+  .mc4wp-checkbox-contact-form-7 label {
+    float: none;
+    display: block;
+    cursor: pointer;
+    width: auto;
+    position: static;
+    margin: 0 0 16px 0; }
+</style><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://goldprice.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><style type="text/css" data-type="vc_custom-css">/*Original CSS*/
+.custom-title-styles-1 em{
+    color:#b7944e;
+    font-style:normal;
+    font-weight:bold;
+}
+.custom-column-styles-1:before{
+    background-color: #b7944e;
+    display: block;
+    content: '';
+    height: 100%;
+    width: 2000px;
+    position: absolute;
+    right: 0;
+    z-index:0;
+}
+.custom-column-styles-1 > .vc_column-inner{
+    position: relative;
+}
+.custom-accordion-style-1.vc_tta-color-white.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-title > a{
+    color:#252525 !important;
+    font-weight:600 !important;
+	-webkit-transition: background 200ms ease-in-out;
+	-moz-transition: background 200ms ease-in-out;
+	-ms-transition: background 200ms ease-in-out;
+	-o-transition: background 200ms ease-in-out;
+	transition: background 200ms ease-in-out;
+}
+.custom-accordion-style-1.vc_tta-color-white.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-heading:hover .vc_tta-panel-title > a,
+.custom-accordion-style-1.vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-title > a{
+    color:#fff !important;
+    background-color:#b7944e !important;
+}
+.custom-accordion-style-1.vc_tta-color-white.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-heading:hover,
+.custom-accordion-style-1.vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading{
+    border-color:#b7944e !important;
+}
+.custom-accordion-style-1.vc_tta-color-white.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-heading{
+    border-color: transparent !important;
+	-webkit-transition: border-color 200ms ease-in-out;
+	-moz-transition: border-color 200ms ease-in-out;
+	-ms-transition: border-color 200ms ease-in-out;
+	-o-transition: border-color 200ms ease-in-out;
+	transition: border-color 200ms ease-in-out;
+}
+.custom-accordion-style-1.vc_tta-color-white.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-body, .custom-accordion-style-1.vc_tta-color-white.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-body::after, .custom-accordion-style-1.vc_tta-color-white.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-body::before{
+    border-color: transparent !important;
+}
+.custom-accordion-style-1.vc_tta-color-white.vc_tta-style-classic .vc_tta-panel-heading:hover .vc_tta-controls-icon::before,
+.custom-accordion-style-1.vc_tta-color-white.vc_tta-style-classic .vc_active .vc_tta-panel-heading .vc_tta-controls-icon::before{
+    border-top-color:#fff !important;
+}
+.wpb-js-composer .custom-accordion-style-1.vc_tta.vc_general .vc_tta-panel-body{
+    padding: 20px 30px;
+}
+.pageable-custom-styles-2 .vc_general.vc_pagination{
+    margin-top: 0 !important;
+}
+
+.pageable-custom-styles-2 .vc_general.vc_pagination .vc_pagination-trigger{
+height: 8px;
+width: 40px;
+background-color: transparent;
+border-color: #ffffff;
+margin: 5px !important;
+}
+
+.pageable-custom-styles-2 .vc_pagination-color-white.vc_pagination-style-flat .vc_pagination-trigger, .pageable-custom-styles-2 .vc_pagination-color-white.vc_pagination-style-outline .vc_active .vc_pagination-trigger, .pageable-custom-styles-2 .vc_pagination-color-white.vc_pagination-style-outline .vc_pagination-trigger:hover{
+border-color: #b7944e;
+}
+@media screen and (min-width: 768px) {
+.five-columns.vc_row .vc_col-sm-2 {
+float: left;
+width: 20%;
+padding: 0;
+margin-right: 0;
+min-height: 0;
+}
+.five-columns.vc_row .vc_col-sm-2:nth-last-child(2) {
+margin-right: 0;
+}
+}
+/*End original CSS*/
+
+/*New CSS*/
+.header-main {
+    background-color: rgba(61,53,51,1);
+}
+
+#gp-converter .vcw.vcw-converter {
+    width:100% !important;
+}
+.eg-services-content {
+	background: transparent;
+}
+.esg-grid .mainul li.eg-services-wrapper {
+	background: transparent;
+}
+.gp-topsec-ad {
+    max-height:1000px;
+}
+
+.gold-btn .vc_btn3 {
+    background-color:#B7944E;
+}
+#hm-top-adspace {
+    max-width: 970px;
+    max-height: 250px;
+    margin: auto;
+}
+
+#hm-gp-calculator .vcw-converter {
+    width:100% !important;
+}
+
+.lntwo .vc-gitem-zone-height-mode-auto-1-1 {
+    max-height:250px;
+}
+@media screen and (max-width: 1200px) {
+    .lntwo .vc-gitem-zone-height-mode-auto-1-1 {
+    max-height:150px;
+}
+}
+@media screen and (max-width: 768px) {
+    .lntwo .vc-gitem-zone-height-mode-auto-1-1 {
+    max-height:250px;
+}
+
+.tpm-CTA .vc-hoverbox-block {backface-visibility:visible;}
+.vc-hoverbox-front {visibility: hidden;}
+.vc-hoverbox-back {visibility: visible;}
+.vc-hoverbox-back {transform: rotateY(0);}
+#tpm-lnk {
+    display:block !important;
+}
+#tpm-lnk2 {
+    display:block !important;
+}
+}
+
+.lntwo .vc_btn3.vc_btn3-color-juicy-pink, .vc_btn3.vc_btn3-color-juicy-pink.vc_btn3-style-flat,  .lntwo .vc_btn3.vc_btn3-color-chino {
+    background-color:#B7944E;
+    border-radius:0;
+}
+
+.lntwo .vc_btn3.vc_btn3-color-juicy-pink:hover, .lntwo .vc_btn3.vc_btn3-color-chino:hover  {
+    background-color:#CEC2AB !important;
+}
+.lntwo .vc_custom_1419240516480 {
+    background-color: transparent !important;
+}
+
+@media screen and (min-width: 525px) {
+#rotateScreen {display:none;}
+}
+
+.tpm-cta-btn .vc_btn3.vc_btn3-color-chino {background-color:#B7944E;}
+.tpm-cta-btn .vc_btn3.vc_btn3-color-chino:hover {background-color:#c3b498;}
+
+.tpm-CTA {border: 2px solid #B7944E; box-shadow:1px 1px 5px 0px rgba(204,204,204,1)}
+
+
+
+#tpm-lnk2 {
+    display:none;
+}
+
+#tpm-cta-hvr2 .vc-hoverbox:hover  #tpm-lnk2 {
+    display:block;
+}
+
+#tpm-lnk {
+    display:none;
+}
+
+#tpm-cta-hvr1 .vc-hoverbox:hover  #tpm-lnk {
+    display:block;
+}
+
+</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1515428130892{margin-top: 20px !important;}.vc_custom_1527798296772{margin-right: 0px !important;margin-left: 0px !important;}.vc_custom_1515428130892{margin-top: 20px !important;}.vc_custom_1527004049237{margin-top: 16px !important;}.vc_custom_1534533987531{padding-top: 35px !important;padding-bottom: 50px !important;}.vc_custom_1551210260272{margin-right: 0px !important;margin-left: 0px !important;}.vc_custom_1535123725506{padding-top: 35px !important;padding-bottom: 70px !important;background: #f5f5f5 url(https://goldprice.com/wp-content/uploads/2018/02/polygon-dark.png?id=1011) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1534533866592{padding-top: 35px !important;padding-bottom: 70px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1528730910993{margin-bottom: 35px !important;}.vc_custom_1530134139835{margin-top: 40px !important;background-color: #f5f5f5 !important;}.vc_custom_1527794984504{margin-right: 0px !important;margin-left: 0px !important;}.vc_custom_1534171940877{margin-top: -30px !important;background-color: #b7944e !important;}.vc_custom_1534171977700{margin-top: -30px !important;background-color: #b7944e !important;}.vc_custom_1534171993904{margin-top: -30px !important;background-color: #b7944e !important;}.vc_custom_1534172010312{margin-top: -30px !important;background-color: #b7944e !important;}.vc_custom_1560345629819{margin-top: 0px !important;margin-bottom: 35px !important;}.vc_custom_1551208871450{margin-top: 15px !important;margin-right: 0px !important;margin-bottom: 25px !important;margin-left: 0px !important;}.vc_custom_1551208884150{margin-top: 15px !important;margin-bottom: 25px !important;}.vc_custom_1559834369322{background-color: #f5f5f6 !important;}.vc_custom_1559834415026{background-color: #f5f5f6 !important;}.vc_custom_1534539076886{margin-top: 0px !important;margin-bottom: 15px !important;}.vc_custom_1534191590274{margin-bottom: 30px !important;}.vc_custom_1534190826642{background-color: #b7944e !important;}.vc_custom_1528986096210{margin-top: 0px !important;margin-bottom: 35px !important;}.vc_custom_1528729443970{margin-bottom: 20px !important;}.vc_custom_1528986188630{margin-top: 0px !important;margin-bottom: 35px !important;}.vc_custom_1528827832650{margin-bottom: 1em !important;}.vc_custom_1528827838657{margin-bottom: 1em !important;}.vc_custom_1528827843326{margin-bottom: 1em !important;}.vc_custom_1528827855734{margin-bottom: 1em !important;}.vc_custom_1528827862834{margin-bottom: 1em !important;}.vc_custom_1534176708781{margin-bottom: 12px !important;}.vc_custom_1534176739183{margin-bottom: 12px !important;}.vc_custom_1534176991761{margin-bottom: 12px !important;}.vc_custom_1534177277109{margin-bottom: 12px !important;}.vc_custom_1534182597708{margin-bottom: 12px !important;}.vc_custom_1534539182334{margin-top: 0px !important;margin-bottom: 20px !important;}.vc_custom_1534860259331{margin-bottom: 70px !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body class="home page-template page-template-slider-template page-template-slider-template-php page page-id-2922 left-header-type left-header-variant-1 navigation-align-center nav-submenu-type-1 nav-megamenu-type-1 title-variant-1 header-type-left slide-panel-left push-slide-panel wpb-js-composer js-comp-ver-5.4.7 vc_responsive">
+	<div class="stickyScroller">
+<div class="stickyScroller stickyInner" id='4600dfdf-3828-4d71-9820-04edb1e09c28'></div>
+    <script>
+        (function(){
+            var t = document.getElementsByTagName('script')[0];
+            var s = document.createElement('script'); s.async = true;
+            s.src = 'https://widget.nfusionsolutions.com/widget/script/ticker/1/7a5babff-ddd0-4ee1-8469-5ad3a1c8f91b/4600dfdf-3828-4d71-9820-04edb1e09c28';
+            t.parentNode.insertBefore(s, t);
+        })();
+    </script>
+	</div>
+</div>
+	<div class="overlay-layer"><div class="panel-close-btn"><span></span></div></div><div id="slide-panel"><div class="slide-panel-wrap"><div class="lpdmobmenu-wrapper"><nav class="lpdmobmenu"><ul id="menu-goldprice-main" class="lpdmobmenu-list"><li id="menu-item-2554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2554"><a  href="https://goldprice.com/?page_id=1079" >Gold Price</a>
+<ul class="lpdmobmenu-submenu">
+	<li id="menu-item-1322" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1322"><a  href="https://goldprice.com/gold-spot-price/" >Gold Spot Price</a>	</li>	<li id="menu-item-1323" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1323"><a  href="https://goldprice.com/live-gold-prices/" >Live Gold Price</a>	</li>	<li id="menu-item-1384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1384"><a  href="https://goldprice.com/gold-price-per-gram/" >Gold Price Per Gram</a>	</li>	<li id="menu-item-1390" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1390"><a  href="https://goldprice.com/gold-price-per-kilo/" >Gold Price Per Kilo</a>	</li>	<li id="menu-item-1324" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1324"><a  href="https://goldprice.com/gold-silver-ratio/" >Gold &#038; Silver Ratio</a>	</li></ul>
+</li><li id="menu-item-2552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2552"><a  href="https://goldprice.com/silver-spot-price/" >Silver Prices</a>
+<ul class="lpdmobmenu-submenu">
+	<li id="menu-item-1401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1401"><a  href="https://goldprice.com/silver-spot-price/" >Spot Silver</a>	</li>	<li id="menu-item-1402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1402"><a  href="https://goldprice.com/live-silver-price/" >Live Silver Prices</a>	</li>	<li id="menu-item-1403" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1403"><a  href="https://goldprice.com/silver-price-per-gram/" >Silver Price Per Gram</a>	</li>	<li id="menu-item-1404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1404"><a  href="https://goldprice.com/silver-price-per-kilo/" >Silver Price Per Kilo</a>	</li>	<li id="menu-item-1405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1405"><a  href="https://goldprice.com/gold-silver-ratio/" >Silver Gold Ratio</a>	</li></ul>
+</li><li id="menu-item-1174" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1174"><a  >Platinum</a>
+<ul class="lpdmobmenu-submenu">
+	<li id="menu-item-1805" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1805"><a  href="https://goldprice.com/platinum-spot-price/" >Spot Platinum</a>	</li>	<li id="menu-item-1812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1812"><a  href="https://goldprice.com/live-platinum-price/" >Live Platinum Prices</a>	</li></ul>
+</li><li id="menu-item-1177" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1177"><a  >Palladium</a>
+<ul class="lpdmobmenu-submenu">
+	<li id="menu-item-1804" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1804"><a  href="https://goldprice.com/palladium-spot-price/" >Spot Palladium</a>	</li>	<li id="menu-item-1811" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1811"><a  href="https://goldprice.com/live-palladium-price/" >Live Palladium Price</a>	</li></ul>
+</li><li id="menu-item-1380" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1380"><a  >Resources</a>
+<ul class="lpdmobmenu-submenu">
+	<li id="menu-item-1465" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1465"><a  href="https://goldprice.com/category/analysis-and-opinion/" >Analysis and Opinion</a>	</li>	<li id="menu-item-2503" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2503"><a  href="https://goldprice.com/category/helpful-info/" >Helpful Info</a>	</li>	<li id="menu-item-1381" class="menu-item menu-item-type-taxonomy menu-item-object-fw-portfolio-category menu-item-1381"><a  href="https://goldprice.com/investment-guide/gold-investment-guide/" >Gold Investment Guide</a>	</li></ul>
+</li></ul></nav></div></div></div>
+	<div id="wrapper" class="clearfix">
+		
+		<header id="header" class="header-absolute min-width-100p">																						<div class="search-overlay search-overlay-hugeinc">
+												<div class="overlay-close"></div>
+																									<form role="form" method="get" class="header-search-form clearfix" action="https://goldprice.com/">
+													    <input type="search" class="form-control search" id="s" name="s" placeholder="Search For">
+													</form>
+																							</div>
+																						
+				<div class="header-container left-header-v-1">
+
+	<div class="header-main">
+	
+		<div class="container">
+		
+			<div class="row">
+				<div class="col-md-12">
+			
+				
+<div id="logo" class="image-logo">
+	<a class="logo" href="https://goldprice.com/">
+	<img src="//new.goldprice.com/wp-content/uploads/2018/06/gold-price-logo-xl.png" alt="Gold Price &ndash; " />
+		</a>
+</div><div class="lpdmenu-wrapper"><nav class="lpdmenu"><ul id="menu-goldprice-main-1" class="lpdmenu-list"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2554"><a  href="https://goldprice.com/?page_id=1079" ><span><span class="btn-overlay"></span>Gold Price</span></a>
+<ul class="lpdmenu-submenu lpdmenu-submenu-disabled-border">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1322"><a  href="https://goldprice.com/gold-spot-price/" ><span class="menu-itemWrap"><span class="menu-item-textWrap">Gold Spot Price</span></span></a>	</li>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1323"><a  href="https://goldprice.com/live-gold-prices/" ><span class="menu-itemWrap"><span class="menu-item-textWrap">Live Gold Price</span></span></a>	</li>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1384"><a  href="https://goldprice.com/gold-price-per-gram/" ><span class="menu-itemWrap"><span class="menu-item-textWrap">Gold Price Per Gram</span></span></a>	</li>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1390"><a  href="https://goldprice.com/gold-price-per-kilo/" ><span class="menu-itemWrap"><span class="menu-item-textWrap">Gold Price Per Kilo</span></span></a>	</li>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1324"><a  href="https://goldprice.com/gold-silver-ratio/" ><span class="menu-itemWrap"><span class="menu-item-textWrap">Gold &#038; Silver Ratio</span></span></a>	</li></ul>
+</li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2552"><a  href="https://goldprice.com/silver-spot-price/" ><span><span class="btn-overlay"></span>Silver Prices</span></a>
+<ul class="lpdmenu-submenu lpdmenu-submenu-disabled-border">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1401"><a  href="https://goldprice.com/silver-spot-price/" ><span class="menu-itemWrap"><span class="menu-item-textWrap">Spot Silver</span></span></a>	</li>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1402"><a  href="https://goldprice.com/live-silver-price/" ><span class="menu-itemWrap"><span class="menu-item-textWrap">Live Silver Prices</span></span></a>	</li>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1403"><a  href="https://goldprice.com/silver-price-per-gram/" ><span class="menu-itemWrap"><span class="menu-item-textWrap">Silver Price Per Gram</span></span></a>	</li>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1404"><a  href="https://goldprice.com/silver-price-per-kilo/" ><span class="menu-itemWrap"><span class="menu-item-textWrap">Silver Price Per Kilo</span></span></a>	</li>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1405"><a  href="https://goldprice.com/gold-silver-ratio/" ><span class="menu-itemWrap"><span class="menu-item-textWrap">Silver Gold Ratio</span></span></a>	</li></ul>
+</li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1174"><a  ><span><span class="btn-overlay"></span>Platinum</span></a>
+<ul class="lpdmenu-submenu lpdmenu-submenu-disabled-border">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1805"><a  href="https://goldprice.com/platinum-spot-price/" ><span class="menu-itemWrap"><span class="menu-item-textWrap">Spot Platinum</span></span></a>	</li>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1812"><a  href="https://goldprice.com/live-platinum-price/" ><span class="menu-itemWrap"><span class="menu-item-textWrap">Live Platinum Prices</span></span></a>	</li></ul>
+</li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1177"><a  ><span><span class="btn-overlay"></span>Palladium</span></a>
+<ul class="lpdmenu-submenu lpdmenu-submenu-disabled-border">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1804"><a  href="https://goldprice.com/palladium-spot-price/" ><span class="menu-itemWrap"><span class="menu-item-textWrap">Spot Palladium</span></span></a>	</li>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1811"><a  href="https://goldprice.com/live-palladium-price/" ><span class="menu-itemWrap"><span class="menu-item-textWrap">Live Palladium Price</span></span></a>	</li></ul>
+</li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1380"><a  ><span><span class="btn-overlay"></span>Resources</span></a>
+<ul class="lpdmenu-submenu lpdmenu-submenu-disabled-border">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1465"><a  href="https://goldprice.com/category/analysis-and-opinion/" ><span class="menu-itemWrap"><span class="menu-item-textWrap">Analysis and Opinion</span></span></a>	</li>	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2503"><a  href="https://goldprice.com/category/helpful-info/" ><span class="menu-itemWrap"><span class="menu-item-textWrap">Helpful Info</span></span></a>	</li>	<li class="menu-item menu-item-type-taxonomy menu-item-object-fw-portfolio-category menu-item-1381"><a  href="https://goldprice.com/investment-guide/gold-investment-guide/" ><span class="menu-itemWrap"><span class="menu-item-textWrap">Gold Investment Guide</span></span></a>	</li></ul>
+</li></ul></nav></div><div class="right-bar"><ul><li class="order-1"><div class="search-container hidden-sm hidden-xs"><div class="search-btn"><div><span class="icon borsen-icon-search"></span></div></div></div></li><li class="responsive-navigation-btn"><div class="slide-panel-toggle"><span></span></div></li></ul></div>		
+				</div>
+			</div>
+		
+		</div>
+	
+	</div>
+
+</div></header>
+
+
+		<div id="main" class="inner-page-no-sidebar min-width-1340">
+
+		    <div class="container">
+		
+				<div class="row">
+				
+					<div class="col-md-12 inner-page-content" style="padding-top:50px;padding-bottom:0px;">					
+
+												
+							<div class="vc_row wpb_row vc_row-fluid vc_custom_1515428130892"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 50px" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1527798296772"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1527794984504"><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" id="hm-top-adspace">
+		<div class="wpb_wrapper">
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- GP Billboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:970px;height:250px"
+     data-ad-client="ca-pub-0888834617797666"
+     data-ad-slot="2566586306"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1515428130892"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 20px" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><h1 style="font-size: 36px;color: #000000;text-align: center;font-family:Montserrat;font-weight:700;font-style:normal" class="vc_custom_heading" >Gold Price Today</h1></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-3 vc_col-sm-offset-0 vc_col-xs-offset-1 vc_col-xs-10"><div class="vc_column-inner "><div class="wpb_wrapper"><div  class="vc_wp_text wpb_content_element"><div class="widget widget_text">			<div class="textwidget"><div class="nfusion-table-content nfusion-single-price-widget">
+<div class="nfusion-loader"><span></span></div>
+<div class="nfusion-table single-price" id="tableid-1533825829340" data-id="1">
+<div class="metal-title">
+			Gold Price		</div>
+<div class="nfprice">&#36;1,576.82</div>
+<div class="table-variations">
+<div class="single-variation-currency">
+																<select name="single_variation_currency" class="currency-select change_variation_currency"><option value="USD" selected >USD</option><option value="CAD"  >CAD</option><option value="EUR"  >EUR</option><option value="GBP"  >GBP</option><option value="JPY"  >JPY</option><option value="AUD"  >AUD</option><option value="INR"  >INR</option><option value="CNY"  >CNY</option><option value="ZAR"  >ZAR</option><option value="CHF"  >CHF</option><option value="BRL"  >BRL</option><option value="ARS"  >ARS</option><option value="HKD"  >HKD</option><option value="IDR"  >IDR</option><option value="MYR"  >MYR</option><option value="MXN"  >MXN</option><option value="NZD"  >NZD</option><option value="NOK"  >NOK</option><option value="RUB"  >RUB</option><option value="SAR"  >SAR</option><option value="SGD"  >SGD</option><option value="SEK"  >SEK</option><option value="TWD"  >TWD</option><option value="THB"  >THB</option><option value="AED"  >AED</option><option value="VND"  >VND</option><option value="BGN"  >BGN</option><option value="CLP"  >CLP</option><option value="CZK"  >CZK</option><option value="DKK"  >DKK</option><option value="HUF"  >HUF</option><option value="ILS"  >ILS</option><option value="KRW"  >KRW</option><option value="PHP"  >PHP</option><option value="PLN"  >PLN</option><option value="TRY"  >TRY</option><option value="PKR"  >PKR</option></select>
+									</div>
+<div class="single-variation-unit">
+																<select name="single_variation_unit" class="unit-select change_variation_unit" ><option value="mg"  >Milligram</option><option value="g"  >Gram</option><option value="kg"  >Kilogram</option><option value="gr"  >Grain</option><option value="oz"  >Ounce</option><option value="toz" selected >Troy ounce</option><option value="ct"  >Carat</option><option value="dwt"  >Pennyweight</option></select>
+									</div></div>
+<div class="nfchange change-up">10.16</div>
+<div class="nfchange-percent  change-up"> (0.65%)</div>
+<div class="nfusion-footer">
+<div class="nftimestamp">2/13/2020 10:00:38 pm UTC</div>
+<div class="nfunits">
+				<span class="currency-label">Prices in</span><br />
+				<span class="currency-value">USD</span><br />
+								<span class="delimeter">/</span><br />
+				<span class="unitofmeasure">toz</span>
+							</div></div>
+<style>
+					</style>
+</p></div></div>
+</div>
+		</div></div><div class="vc_btn3-container  gold-btn vc_btn3-center vc_custom_1534171940877" >
+	<a class="vc_general vc_btn3 vc_btn3-size-lg vc_btn3-shape-rounded vc_btn3-style-classic vc_btn3-block vc_btn3-color-chino" href="/gold-spot-price/" title="">View Gold Price Charts</a></div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-3 vc_col-sm-offset-0 vc_col-xs-offset-1 vc_col-xs-10"><div class="vc_column-inner "><div class="wpb_wrapper"><div  class="vc_wp_text wpb_content_element"><div class="widget widget_text">			<div class="textwidget"><div class="nfusion-table-content nfusion-single-price-widget">
+<div class="nfusion-loader"><span></span></div>
+<div class="nfusion-table single-price" id="tableid-1533826434158" data-id="2">
+<div class="metal-title">
+			Silver Price		</div>
+<div class="nfprice">&#36;17.68</div>
+<div class="table-variations">
+<div class="single-variation-currency">
+																<select name="single_variation_currency" class="currency-select change_variation_currency"><option value="USD" selected >USD</option><option value="CAD"  >CAD</option><option value="EUR"  >EUR</option><option value="GBP"  >GBP</option><option value="JPY"  >JPY</option><option value="AUD"  >AUD</option><option value="INR"  >INR</option><option value="CNY"  >CNY</option><option value="ZAR"  >ZAR</option><option value="CHF"  >CHF</option><option value="BRL"  >BRL</option><option value="ARS"  >ARS</option><option value="HKD"  >HKD</option><option value="IDR"  >IDR</option><option value="MYR"  >MYR</option><option value="MXN"  >MXN</option><option value="NZD"  >NZD</option><option value="NOK"  >NOK</option><option value="RUB"  >RUB</option><option value="SAR"  >SAR</option><option value="SGD"  >SGD</option><option value="SEK"  >SEK</option><option value="TWD"  >TWD</option><option value="THB"  >THB</option><option value="AED"  >AED</option><option value="VND"  >VND</option><option value="BGN"  >BGN</option><option value="CLP"  >CLP</option><option value="CZK"  >CZK</option><option value="DKK"  >DKK</option><option value="HUF"  >HUF</option><option value="ILS"  >ILS</option><option value="KRW"  >KRW</option><option value="PHP"  >PHP</option><option value="PLN"  >PLN</option><option value="TRY"  >TRY</option><option value="PKR"  >PKR</option></select>
+									</div>
+<div class="single-variation-unit">
+																<select name="single_variation_unit" class="unit-select change_variation_unit" ><option value="mg"  >Milligram</option><option value="g"  >Gram</option><option value="kg"  >Kilogram</option><option value="gr"  >Grain</option><option value="oz"  >Ounce</option><option value="toz" selected >Troy ounce</option><option value="ct"  >Carat</option><option value="dwt"  >Pennyweight</option></select>
+									</div></div>
+<div class="nfchange change-up">0.17</div>
+<div class="nfchange-percent  change-up"> (0.96%)</div>
+<div class="nfusion-footer">
+<div class="nftimestamp">2/13/2020 10:00:38 pm UTC</div>
+<div class="nfunits">
+				<span class="currency-label">Prices in</span><br />
+				<span class="currency-value">USD</span><br />
+								<span class="delimeter">/</span><br />
+				<span class="unitofmeasure">toz</span>
+							</div></div>
+<style>
+					</style>
+</p></div></div>
+</div>
+		</div></div><div class="vc_btn3-container  gold-btn vc_btn3-center vc_custom_1534171977700" >
+	<a class="vc_general vc_btn3 vc_btn3-size-lg vc_btn3-shape-rounded vc_btn3-style-classic vc_btn3-block vc_btn3-color-chino" href="/silver-spot-price/" title="">View Silver Price Charts</a></div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-3 vc_col-sm-offset-0 vc_col-xs-offset-1 vc_col-xs-10"><div class="vc_column-inner "><div class="wpb_wrapper"><div  class="vc_wp_text wpb_content_element"><div class="widget widget_text">			<div class="textwidget"><div class="nfusion-table-content nfusion-single-price-widget">
+<div class="nfusion-loader"><span></span></div>
+<div class="nfusion-table single-price" id="tableid-1533830380284" data-id="3">
+<div class="metal-title">
+			Platinum Price		</div>
+<div class="nfprice">&#36;973.18</div>
+<div class="table-variations">
+<div class="single-variation-currency">
+																<select name="single_variation_currency" class="currency-select change_variation_currency"><option value="USD" selected >USD</option><option value="CAD"  >CAD</option><option value="EUR"  >EUR</option><option value="GBP"  >GBP</option><option value="JPY"  >JPY</option><option value="AUD"  >AUD</option><option value="INR"  >INR</option><option value="CNY"  >CNY</option><option value="ZAR"  >ZAR</option><option value="CHF"  >CHF</option><option value="BRL"  >BRL</option><option value="ARS"  >ARS</option><option value="HKD"  >HKD</option><option value="IDR"  >IDR</option><option value="MYR"  >MYR</option><option value="MXN"  >MXN</option><option value="NZD"  >NZD</option><option value="NOK"  >NOK</option><option value="RUB"  >RUB</option><option value="SAR"  >SAR</option><option value="SGD"  >SGD</option><option value="SEK"  >SEK</option><option value="TWD"  >TWD</option><option value="THB"  >THB</option><option value="AED"  >AED</option><option value="VND"  >VND</option><option value="BGN"  >BGN</option><option value="CLP"  >CLP</option><option value="CZK"  >CZK</option><option value="DKK"  >DKK</option><option value="HUF"  >HUF</option><option value="ILS"  >ILS</option><option value="KRW"  >KRW</option><option value="PHP"  >PHP</option><option value="PLN"  >PLN</option><option value="TRY"  >TRY</option><option value="PKR"  >PKR</option></select>
+									</div>
+<div class="single-variation-unit">
+																<select name="single_variation_unit" class="unit-select change_variation_unit" ><option value="mg"  >Milligram</option><option value="g"  >Gram</option><option value="kg"  >Kilogram</option><option value="gr"  >Grain</option><option value="oz"  >Ounce</option><option value="toz" selected >Troy ounce</option><option value="ct"  >Carat</option><option value="dwt"  >Pennyweight</option></select>
+									</div></div>
+<div class="nfchange change-up">6.65</div>
+<div class="nfchange-percent  change-up"> (0.69%)</div>
+<div class="nfusion-footer">
+<div class="nftimestamp">2/13/2020 10:29:48 pm UTC</div>
+<div class="nfunits">
+				<span class="currency-label">Prices in</span><br />
+				<span class="currency-value">USD</span><br />
+								<span class="delimeter">/</span><br />
+				<span class="unitofmeasure">toz</span>
+							</div></div>
+<style>
+					</style>
+</p></div></div>
+</div>
+		</div></div><div class="vc_btn3-container  gold-btn vc_btn3-center vc_custom_1534171993904" >
+	<a class="vc_general vc_btn3 vc_btn3-size-lg vc_btn3-shape-rounded vc_btn3-style-classic vc_btn3-block vc_btn3-color-chino" href="/platinum-spot-price/" title="">View Platinum Price Charts</a></div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-3 vc_col-sm-offset-0 vc_col-xs-offset-1 vc_col-xs-10"><div class="vc_column-inner "><div class="wpb_wrapper"><div  class="vc_wp_text wpb_content_element"><div class="widget widget_text">			<div class="textwidget"><div class="nfusion-table-content nfusion-single-price-widget">
+<div class="nfusion-loader"><span></span></div>
+<div class="nfusion-table single-price" id="tableid-1533830449877" data-id="4">
+<div class="metal-title">
+			Palladium Price		</div>
+<div class="nfprice">&#36;2,481.84</div>
+<div class="table-variations">
+<div class="single-variation-currency">
+																<select name="single_variation_currency" class="currency-select change_variation_currency"><option value="USD" selected >USD</option><option value="CAD"  >CAD</option><option value="EUR"  >EUR</option><option value="GBP"  >GBP</option><option value="JPY"  >JPY</option><option value="AUD"  >AUD</option><option value="INR"  >INR</option><option value="CNY"  >CNY</option><option value="ZAR"  >ZAR</option><option value="CHF"  >CHF</option><option value="BRL"  >BRL</option><option value="ARS"  >ARS</option><option value="HKD"  >HKD</option><option value="IDR"  >IDR</option><option value="MYR"  >MYR</option><option value="MXN"  >MXN</option><option value="NZD"  >NZD</option><option value="NOK"  >NOK</option><option value="RUB"  >RUB</option><option value="SAR"  >SAR</option><option value="SGD"  >SGD</option><option value="SEK"  >SEK</option><option value="TWD"  >TWD</option><option value="THB"  >THB</option><option value="AED"  >AED</option><option value="VND"  >VND</option><option value="BGN"  >BGN</option><option value="CLP"  >CLP</option><option value="CZK"  >CZK</option><option value="DKK"  >DKK</option><option value="HUF"  >HUF</option><option value="ILS"  >ILS</option><option value="KRW"  >KRW</option><option value="PHP"  >PHP</option><option value="PLN"  >PLN</option><option value="TRY"  >TRY</option><option value="PKR"  >PKR</option></select>
+									</div>
+<div class="single-variation-unit">
+																<select name="single_variation_unit" class="unit-select change_variation_unit" ><option value="mg"  >Milligram</option><option value="g"  >Gram</option><option value="kg"  >Kilogram</option><option value="gr"  >Grain</option><option value="oz"  >Ounce</option><option value="toz" selected >Troy ounce</option><option value="ct"  >Carat</option><option value="dwt"  >Pennyweight</option></select>
+									</div></div>
+<div class="nfchange change-up">19.34</div>
+<div class="nfchange-percent  change-up"> (0.80%)</div>
+<div class="nfusion-footer">
+<div class="nftimestamp">2/13/2020 10:02:10 pm UTC</div>
+<div class="nfunits">
+				<span class="currency-label">Prices in</span><br />
+				<span class="currency-value">USD</span><br />
+								<span class="delimeter">/</span><br />
+				<span class="unitofmeasure">toz</span>
+							</div></div>
+<style>
+					</style>
+</p></div></div>
+</div>
+		</div></div><div class="vc_btn3-container  gold-btn vc_btn3-center vc_custom_1534172010312" >
+	<a class="vc_general vc_btn3 vc_btn3-size-lg vc_btn3-shape-rounded vc_btn3-style-classic vc_btn3-block vc_btn3-color-chino" href="/palladium-spot-price/" title="">View Palladium Price Charts</a></div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1527004049237"><div class="wpb_column vc_column_container vc_col-sm-1 vc_col-md-6"><div class="vc_column-inner "><div class="wpb_wrapper"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- GP Responsive Text Ad -->
+<ins class="adsbygoogle"
+     style="display:block;"
+     data-ad-client="ca-pub-0888834617797666"
+     data-ad-slot="5487291945"
+     data-ad-format="horizontal"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<div style="height:10px;">&nbsp;</div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-1 vc_col-md-6"><div class="vc_column-inner "><div class="wpb_wrapper"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- GP Responsive Text Ad -->
+<ins class="adsbygoogle"
+     style="display:block;"
+     data-ad-client="ca-pub-0888834617797666"
+     data-ad-slot="5487291945"
+     data-ad-format="horizontal"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<div style="height:10px;">&nbsp;</div></div></div></div></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1534533987531"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><h2 style="font-size: 44px;text-align: left" class="vc_custom_heading custom-title-styles-1 vc_custom_1560345629819" ><a href="/news/"><em>Latest</em> Gold Price Charts &amp; News</a></h2><!-- vc_grid start -->
+<div class="vc_grid-container-wrapper vc_clearfix" >
+	<div class="vc_grid-container vc_clearfix wpb_content_element vc_basic_grid lntwo gld-btn" data-initial-loading-animation="fadeIn" data-vc-grid-settings="{&quot;page_id&quot;:2922,&quot;style&quot;:&quot;load-more&quot;,&quot;action&quot;:&quot;vc_get_vc_grid_data&quot;,&quot;shortcode_id&quot;:&quot;1560345573369-ef905c5c-f187-5&quot;,&quot;items_per_page&quot;:&quot;3&quot;,&quot;btn_data&quot;:{&quot;title&quot;:&quot;Load more&quot;,&quot;style&quot;:&quot;flat&quot;,&quot;gradient_color_1&quot;:&quot;flat&quot;,&quot;gradient_color_2&quot;:&quot;flat&quot;,&quot;gradient_custom_color_1&quot;:&quot;flat&quot;,&quot;gradient_custom_color_2&quot;:&quot;flat&quot;,&quot;gradient_text_color&quot;:&quot;flat&quot;,&quot;custom_background&quot;:&quot;#ededed&quot;,&quot;custom_text&quot;:&quot;#666&quot;,&quot;outline_custom_color&quot;:&quot;#666&quot;,&quot;outline_custom_hover_background&quot;:&quot;#666&quot;,&quot;outline_custom_hover_text&quot;:&quot;#fff&quot;,&quot;shape&quot;:&quot;square&quot;,&quot;color&quot;:&quot;chino&quot;,&quot;size&quot;:&quot;lg&quot;,&quot;align&quot;:&quot;inline&quot;,&quot;button_block&quot;:&quot;&quot;,&quot;add_icon&quot;:&quot;&quot;,&quot;i_align&quot;:&quot;left&quot;,&quot;i_type&quot;:&quot;fontawesome&quot;,&quot;i_icon_fontawesome&quot;:&quot;fa fa-adjust&quot;,&quot;i_icon_openiconic&quot;:&quot;vc-oi vc-oi-dial&quot;,&quot;i_icon_typicons&quot;:&quot;typcn typcn-adjust-brightness&quot;,&quot;i_icon_entypo&quot;:&quot;entypo-icon entypo-icon-note&quot;,&quot;i_icon_linecons&quot;:&quot;vc_li vc_li-heart&quot;,&quot;i_icon_monosocial&quot;:&quot;vc_li vc_li-heart&quot;,&quot;i_icon_material&quot;:&quot;vc_li vc_li-heart&quot;,&quot;i_icon_pixelicons&quot;:&quot;vc_pixel_icon vc_pixel_icon-alert&quot;,&quot;el_id&quot;:&quot;&quot;,&quot;custom_onclick&quot;:&quot;&quot;,&quot;custom_onclick_code&quot;:&quot;&quot;},&quot;tag&quot;:&quot;vc_basic_grid&quot;}" data-vc-request="https://goldprice.com/wp-admin/admin-ajax.php" data-vc-post-id="2922" data-vc-public-nonce="80dc2a4dd9">
+	</div>
+</div><!-- vc_grid end -->
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- GP Responsive Text Ad -->
+<ins class="adsbygoogle"
+     style="display:block;"
+     data-ad-client="ca-pub-0888834617797666"
+     data-ad-slot="5487291945"
+     data-ad-format="horizontal"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<div style="height:10px;">&nbsp;</div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- GP Responsive Text Ad -->
+<ins class="adsbygoogle"
+     style="display:block;"
+     data-ad-client="ca-pub-0888834617797666"
+     data-ad-slot="5487291945"
+     data-ad-format="horizontal"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<div style="height:10px;">&nbsp;</div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1551210260272"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1551208871450"><div class="wpb_wrapper"><div class="vc-hoverbox-wrapper  vc_custom_1559834369322 tpm-CTA vc-hoverbox-shape--square vc-hoverbox-align--left vc-hoverbox-direction--default vc-hoverbox-width--100" id="tpm-cta-hvr1">
+  <div class="vc-hoverbox">
+    <div class="vc-hoverbox-inner">
+      <div class="vc-hoverbox-block vc-hoverbox-front" style="background-image: url(https://goldprice.com/wp-content/uploads/2018/02/polygon-dark-1024x640.png);">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-front-inner">
+            <h2 style="font-size: 24px;line-height: 26px;text-align: center;font-family:Montserrat;font-weight:700;font-style:normal" class="vc_custom_heading" >The Best Way to Store Gold and Silver</h2>
+        </div>
+      </div>
+      <div class="vc-hoverbox-block vc-hoverbox-back" style="background-color: #ebebeb;">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-back-inner">
+            <h2 style="text-align:center">How To Store Gold &amp; Silver</h2>
+            <p>Worried about the safety of your gold and silver? Looking for a better way to protect you investment?</p>
+<div id="tpm-lnk" class="tpm-cta-btn"><a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-classic vc_btn3-color-chino" title="" href="https://www.texasdepository.com/compare-texas-depositories/" target="_blank" rel="noopener noreferrer">Learn More</a></div>
+
+            
+        </div>
+      </div>
+    </div>
+  </div>
+</div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1551208884150"><div class="wpb_wrapper"><div class="vc-hoverbox-wrapper  vc_custom_1559834415026 tpm-CTA vc-hoverbox-shape--square vc-hoverbox-align--left vc-hoverbox-direction--default vc-hoverbox-width--100" id="tpm-cta-hvr2">
+  <div class="vc-hoverbox">
+    <div class="vc-hoverbox-inner">
+      <div class="vc-hoverbox-block vc-hoverbox-front" style="background-image: url(https://goldprice.com/wp-content/uploads/2018/02/polygon-dark-1024x640.png);">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-front-inner">
+            <h2 style="font-size: 24px;line-height: 26px;text-align: center;font-family:Montserrat;font-weight:700;font-style:normal" class="vc_custom_heading" >The Best Place to Buy Gold and Silver</h2>
+        </div>
+      </div>
+      <div class="vc-hoverbox-block vc-hoverbox-back" style="background-color: #ebebeb;">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-back-inner">
+            <h2 style="text-align:center">The Best Place to Buy Gold and Silver</h2>
+            <p>Think all gold and silver dealers are the same? Learn what puts one dealer ahead of all the rest.</p>
+<div id="tpm-lnk2" class="tpm-cta-btn"><a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-classic vc_btn3-color-chino" title="" href="https://www.texmetals.com/" target="_blank" rel="noopener noreferrer">Learn More</a></div>
+
+            
+        </div>
+      </div>
+    </div>
+  </div>
+</div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1535123725506 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><h2 style="font-size: 36px;color: #000000;text-align: center;font-family:Montserrat;font-weight:700;font-style:normal" class="vc_custom_heading custom-title-styles-1 vc_custom_1534539076886" >Gold Price Charts</h2>
+	<div class="wpb_text_column wpb_content_element  vc_custom_1534191590274" >
+		<div class="wpb_wrapper">
+			<p style="text-align: center;">GoldPrice.com offers many charts, tables, and graphs that can be used to make better investment decisions when buying precious metals.</p>
+
+		</div>
+	</div>
+<div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<style>
+.lrg-price-chart-ifr {
+width:95vw;
+min-height:435px;
+border: 2px solid #b7944e;
+box-shadow: 1px 1px 5px 0px rgba(204,204,204,1);
+}
+</style>
+<iframe class="lrg-price-chart-ifr" src="https://integration.nfusionsolutions.biz/client/goldprice/module/largehistoricalchart2" scrolling="no"></iframe>
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-offset-4 vc_col-lg-4 vc_col-sm-offset-3 vc_col-xs-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " id="rotateScreen">
+		<div class="wpb_wrapper">
+			<p style="text-align: center;">Rotate your screen to portrait, for best viewing of the graph.</p>
+<p><img class="wp-image-2571 size-full aligncenter" src="https://goldprice.com/wp-content/uploads/2018/08/rotate-screen-icon.png" alt="" width="50" height="50" /></p>
+
+		</div>
+	</div>
+<div class="vc_btn3-container  gold-btn vc_btn3-center vc_custom_1534190826642" >
+	<a class="vc_general vc_btn3 vc_btn3-size-lg vc_btn3-shape-rounded vc_btn3-style-classic vc_btn3-block vc_btn3-color-chino" href="/gold-spot-price/" title="">View Gold Price Charts</a></div>
+</div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1528730910993 vc_row-o-equal-height vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper"><h2 style="font-size: 44px;text-align: left;font-family:Montserrat;font-weight:700;font-style:normal" class="vc_custom_heading custom-title-styles-1 vc_custom_1528986188630" >Gold Price Tracking Tools</h2><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner vc_custom_1528827832650"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left  vc_custom_1534176708781">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="/gold-spot-price/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://goldprice.com/wp-content/uploads/2018/08/gold-price-data-screen.jpg" width="800" height="500" alt="Gold Price Charts and live data" title="Gold Price Charts" /></a>
+		</figure>
+	</div>
+<h4 style="font-size: 16px;color: #b7944e;text-align: left;font-family:Montserrat;font-weight:700;font-style:normal" class="vc_custom_heading" ><a href="/gold-spot-price/">Gold Price Charts</a></h4>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>View the current price of gold and gold price historical charts.</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner vc_custom_1528827838657"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left  vc_custom_1534176739183">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://goldprice.com/wp-content/uploads/2018/08/silver-price-data-screen.jpg" width="800" height="500" alt="Silver Price Charts and Live Data" title="Silver Price Charts" /></div>
+		</figure>
+	</div>
+<h4 style="font-size: 16px;color: #b7944e;text-align: left;font-family:Montserrat;font-weight:700;font-style:normal" class="vc_custom_heading" ><a href="/silver-spot-price/">Silver Price Charts</a></h4>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>View the current price of silver and silver price historical charts.</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner vc_custom_1528827843326"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left  vc_custom_1534176991761">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="/platinum-spot-price/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://goldprice.com/wp-content/uploads/2018/08/platinum-price-data-screen.jpg" width="800" height="500" alt="Platinum Price Charts and Live Data" title="Platinum Price Charts" /></a>
+		</figure>
+	</div>
+<h4 style="font-size: 16px;color: #b7944e;text-align: left;font-family:Montserrat;font-weight:700;font-style:normal" class="vc_custom_heading" ><a href="/platinum-spot-price/">Platinum Price Charts</a></h4>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>View the current price of platinum and platinum price historical charts.</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner vc_custom_1528827855734"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left  vc_custom_1534177277109">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="/project/gold-investment-guide/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://goldprice.com/wp-content/uploads/2018/08/gold-investment-guide-thumbnail-1.jpg" width="800" height="500" alt="Gold Investment Guide Thumbnail" title="Gold Investment Guide" /></a>
+		</figure>
+	</div>
+<h4 style="font-size: 16px;color: #b7944e;text-align: left;font-family:Montserrat;font-weight:700;font-style:normal" class="vc_custom_heading" ><a href="/project/gold-investment-guide/">Gold Investment Guide</a></h4>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Learn about gold market investment best practices and the history of gold.</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner vc_custom_1528827862834"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left  vc_custom_1534182597708">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="/category/analysis-and-opinion/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://goldprice.com/wp-content/uploads/2018/08/analysis-and-opinion-thumbnail.jpg" width="800" height="500" alt="Gold Market Analysis and Opinion Articles" title="Analysis and Opinion" /></a>
+		</figure>
+	</div>
+<h4 style="font-size: 16px;color: #b7944e;text-align: left;font-family:Montserrat;font-weight:700;font-style:normal" class="vc_custom_heading" ><a href="/category/analysis-and-opinion/">Analysis and Opinion</a></h4>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Keep up-to-date by reading our articles from bullion industry leaders and commentators.</p>
+
+		</div>
+	</div>
+</div></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 67px" ><span class="vc_empty_space_inner"></span></div>
+
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Premium Skyscraper Column -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-0888834617797666"
+     data-ad-slot="9922086397"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div id="about-gold-price" data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1530134139835 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper"><h2 style="font-size: 32px;color: #000000;text-align: left;font-family:Montserrat;font-weight:700;font-style:normal" class="vc_custom_heading custom-title-styles-1 vc_custom_1534539182334" >Get the Gold Price Today from Goldprice.com</h2>
+	<div class="wpb_text_column wpb_content_element  vc_custom_1534860259331" id="gp-hm-txt-block">
+		<div class="wpb_wrapper">
+			<p>Goldprice.com is your destination for industry insight and the best tools to discover live spot prices for gold, silver, platinum and palladium. Our gold price charts provide accurate price data and allow you to research currencies from 37 different countries with 8 options for weights of measurement. We offer analysis and expert opinions to help educate you on the gold price today and prepare you for future purchases and investments.</p>
+<h3>Invest in Gold Today</h3>
+<p>Buying gold as an investment makes sense. Gold has been around as a medium of exchange for 5,000 years and, unlike most paper currencies, gold’s value has never gone to zero. In fact, over the last 100 years the price of gold has increased.</p>
+<h3>Here are Four Reasons to Invest in Gold Today</h3>
+<p><span style="font-weight: bold;">1. Gold Holds Unique Value &#8211;</span> Gold is physical money. It isn’t like the US dollar which is issued and backed by the US government, making it vulnerable to market fluctuations. Gold has immediate purchasing power as currency and that makes it uniquely valuable. Owning gold bullion is considered to be a means of protection when the US dollar is failing or world markets become volatile and uncertain. Traditionally, the value of gold goes up when the dollar is down.</p>
+<p><span style="font-weight: bold;">2. Gold is Historically Stable &#8211;</span> Physical gold holds the same value and standard weight all over the world, creating a viable option to easily buy, sell or trade. While you can shop for gold in many currencies and weights, the gold industry recognizes a standard for that weight. This standardization around the world makes buying gold bullion and other precious metals, a trustworthy process.</p>
+<p><span style="font-weight: bold;">3. Gold Supply is Limited &#8211;</span> There is a limited supply of gold on the earth and gold is also not renewable. Gold can’t be printed like money and that means once all of the gold has been mined and sold, there won’t be more. Gold mining can be a costly activity so if mining companies decide that it isn’t financially feasible to mine, the supply will lag behind demand. All of this rarity, including low discovery of new gold, makes gold even more valuable, especially as a long-term investment.</p>
+<p><span style="font-weight: bold;">4. Gold is Accessible to Purchase &#8211;</span> Buying and selling gold as an individual investor has become easy and more accessible. The 1 ounce gold and silver bars provide an amazing entry point for purchasing smaller amounts of bullion with more variety. One troy ounce gold and silver coins are created with unique and limited-edition designs perfect for collecting, gift giving and handing down to loved ones. These coins are also sold in fractional amounts; another great way to invest small or create a wide collection. And of course there is the option of buying larger, exquisitely designed 10 or 100 ounce gold and silver bars, if you prefer more volume at once.</p>
+<h3>The Future of Gold</h3>
+<p>The future of gold is actually pretty bright. With advancements in technology, new industry uses for gold in electronics, mobile phones, solar energy and even medicine; the value of gold should continue to rise. Any investor will benefit from paying attention to the daily spot prices of gold to make smart purchases, and hold onto gold for the long term.</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div>
+							
+													
+						
+					</div>
+					
+					
+											
+														
+				</div>
+				
+			</div>
+		    
+		</div>
+
+
+	
+						<div id="footer"
+			 class="						 min-width-1340						
+						
+			"			>
+			
+									
+										
+											
+														
+																
+									<div class="middle-section">
+										<div class="container">
+											<div class="row">
+												
+													
+												<div class="col-md-3">
+													<div id="nav_menu-3" class="widget widget_nav_menu"><h4 class="widget-title">About GoldPrice.com</h4><div class="menu-footer-legal-container"><ul id="menu-footer-legal" class="menu"><li id="menu-item-2939" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2939"><a href="https://www.facebook.com/goldpricecom/">Facebook</a></li>
+<li id="menu-item-2940" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2940"><a href="https://twitter.com/goldprice_com">Twitter</a></li>
+<li id="menu-item-1988" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1988"><a href="https://goldprice.com/about-us/">About Us</a></li>
+<li id="menu-item-2362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2362"><a href="https://goldprice.com/faq/">FAQs</a></li>
+<li id="menu-item-1215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1215"><a href="https://goldprice.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-2479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-2479"><a href="https://goldprice.com/privacy-policy/">Privacy Policy</a></li>
+</ul></div><div class="clearfix"></div></div><div id="nav_menu-6" class="widget widget_nav_menu"><h4 class="widget-title">Gold Dealer Info</h4><div class="menu-footer-outbound-container"><ul id="menu-footer-outbound" class="menu"><li id="menu-item-2846" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2846"><a href="https://www.texmetals.com/">Texas Precious Metals</a></li>
+<li id="menu-item-2847" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2847"><a href="https://texasdepository.com/">Texas Depository</a></li>
+<li id="menu-item-2848" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2848"><a href="https://texasmint.com/">Texas Mint</a></li>
+</ul></div><div class="clearfix"></div></div>												</div>
+																																				<div class="col-md-3">
+													<div id="nav_menu-4" class="widget widget_nav_menu"><h4 class="widget-title">Gold Price Tracking</h4><div class="menu-gold-price-tracking-container"><ul id="menu-gold-price-tracking" class="menu"><li id="menu-item-2469" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2469"><a href="https://goldprice.com/gold-spot-price/">Gold Spot Price</a></li>
+<li id="menu-item-2470" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2470"><a href="https://goldprice.com/live-gold-prices/">Gold Price Table</a></li>
+<li id="menu-item-2268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2268"><a href="https://goldprice.com/gold-price-per-kilo/">Gold Price Per Kilo</a></li>
+<li id="menu-item-2269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2269"><a href="https://goldprice.com/gold-price-per-gram/">Gold Price Per Gram</a></li>
+<li id="menu-item-2270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2270"><a href="https://goldprice.com/gold-silver-ratio/">Gold &#038; Silver Ratio</a></li>
+</ul></div><div class="clearfix"></div></div>												</div>
+																																				<div class="col-md-3">
+													<div id="nav_menu-5" class="widget widget_nav_menu"><h4 class="widget-title">Silver Price Tracking</h4><div class="menu-silver-price-tracking-container"><ul id="menu-silver-price-tracking" class="menu"><li id="menu-item-2471" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2471"><a href="https://goldprice.com/silver-spot-price/">Silver Spot Price</a></li>
+<li id="menu-item-2475" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2475"><a href="https://goldprice.com/live-silver-price/">Silver Price Table</a></li>
+<li id="menu-item-2473" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2473"><a href="https://goldprice.com/silver-price-per-kilo/">Silver Price Per Kilo</a></li>
+<li id="menu-item-2474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2474"><a href="https://goldprice.com/silver-price-per-gram/">Silver Price Per Gram</a></li>
+</ul></div><div class="clearfix"></div></div>												</div>
+																																				<div class="col-md-3">
+													<div id="nav_menu-2" class="widget widget_nav_menu"><h4 class="widget-title">Resources</h4><div class="menu-footer-educational-container"><ul id="menu-footer-educational" class="menu"><li id="menu-item-2345" class="menu-item menu-item-type-taxonomy menu-item-object-fw-portfolio-category menu-item-2345"><a href="https://goldprice.com/investment-guide/gold-investment-guide/">Gold Investment Guide</a></li>
+<li id="menu-item-2344" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2344"><a href="https://goldprice.com/category/analysis-and-opinion/">Industry Commentary</a></li>
+<li id="menu-item-2900" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2900"><a href="https://fibonacci.com/">Fibonacci</a></li>
+<li id="menu-item-2483" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2483"><a href="https://goldprice.com/how-much-is-gold-worth/">How Much is Gold Worth</a></li>
+<li id="menu-item-2486" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2486"><a href="https://goldprice.com/troy-ounce-vs-ounce/">Troy Ounce vs Ounce</a></li>
+<li id="menu-item-2502" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2502"><a href="https://goldprice.com/4-reasons-to-buy-gold/">4 Reasons To Buy Gold</a></li>
+<li id="menu-item-2501" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2501"><a href="https://goldprice.com/how-do-gold-dealers-make-money/">How Do Gold Dealers Make Money</a></li>
+<li id="menu-item-2500" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2500"><a href="https://goldprice.com/invest-in-silver-with-the-right-investment-decision/">Invest In Silver with the Right Investment Decision</a></li>
+</ul></div><div class="clearfix"></div></div>												</div>
+																		
+												
+											</div>
+										</div>
+									</div>
+								
+															
+														
+												
+					
+				
+				 
+				
+								<div class="bottom-section">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-12">
+								<div class="text-container"><p>Copyright © 2019 GoldPrice.com</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+				 
+				
+			</div>
+			 
+		
+	</div>
+	
+	<div class='sticky-slide-panel-toggle'><div class="slide-panel-toggle"><span></span></div></div>	
+		<a href="#" id="back-to-top" title="Back to top"><div class="icon icon-arrow-up-12"><span>Top</span></div></a>
+	
+<link rel='stylesheet' id='open-sansregular-font-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3Aregular&#038;subset=latin-ext&#038;ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='montserrat600-font-css'  href='https://fonts.googleapis.com/css?family=Montserrat%3A600&#038;subset=latin-ext&#038;ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='open-sans700-font-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A700&#038;subset=latin-ext&#038;ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='montserrat700-font-css'  href='https://fonts.googleapis.com/css?family=Montserrat%3A700&#038;subset=latin-ext&#038;ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='open-sans600-font-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A600&#038;subset=latin-ext&#038;ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='open-sans300-font-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300&#038;subset=latin-ext&#038;ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='vc_google_fonts_montserratregular700-css'  href='//fonts.googleapis.com/css?family=Montserrat%3Aregular%2C700&#038;ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyphoto-css'  href='https://goldprice.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/css/prettyPhoto.min.css?ver=5.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='vc_pageable_owl-carousel-css-css'  href='https://goldprice.com/wp-content/plugins/js_composer/assets/lib/owl-carousel2-dist/assets/owl.min.css?ver=5.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css-css'  href='https://goldprice.com/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css?ver=5.4.7' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/goldprice.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://goldprice.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.6'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6Lf-eGMUAAAAAOjWftsFjZmLha0OjI1Y3sRl5O1G&#038;ver=3.0'></script>
+<script type='text/javascript' src='https://goldprice.com/wp-content/plugins/enlighter/resources/mootools-core-yc.js?ver=3.10.0'></script>
+<script type='text/javascript' src='https://goldprice.com/wp-content/plugins/enlighter/resources/EnlighterJS.min.js?ver=3.10.0'></script>
+<script type='text/javascript' src='https://goldprice.com/wp-includes/js/wp-embed.min.js?ver=5.2.5'></script>
+<script type='text/javascript' src='https://goldprice.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.4.7'></script>
+<script type='text/javascript' src='https://goldprice.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/js/jquery.prettyPhoto.min.js?ver=5.4.7'></script>
+<script type='text/javascript' src='https://goldprice.com/wp-content/plugins/js_composer/assets/lib/owl-carousel2-dist/owl.carousel.min.js?ver=5.4.7'></script>
+<script type='text/javascript' src='https://goldprice.com/wp-content/plugins/js_composer/assets/lib/bower/imagesloaded/imagesloaded.pkgd.min.js?ver=5.2.5'></script>
+<script type='text/javascript' src='https://goldprice.com/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript' src='https://goldprice.com/wp-content/plugins/js_composer/assets/lib/waypoints/waypoints.min.js?ver=5.4.7'></script>
+<script type='text/javascript' src='https://goldprice.com/wp-content/plugins/js_composer/assets/js/dist/vc_grid.min.js?ver=5.4.7'></script>
+<script type="text/javascript">/* <![CDATA[ */EnlighterJS_Config = {"selector":{"block":"pre.EnlighterJSRAW","inline":"code.EnlighterJSRAW"},"language":"generic","theme":"enlighter","indent":2,"hover":"hoverEnabled","showLinenumbers":true,"rawButton":true,"infoButton":true,"windowButton":true,"rawcodeDoubleclick":false,"grouping":true,"cryptex":{"enabled":false,"email":"mail@example.tld"}};!function(){var a=function(a){var b="Enlighter Error: ";console.error?console.error(b+a):console.log&&console.log(b+a)};return window.addEvent?"undefined"==typeof EnlighterJS?void a("Javascript Resources not loaded yet!"):"undefined"==typeof EnlighterJS_Config?void a("Configuration not loaded yet!"):void window.addEvent("domready",function(){EnlighterJS.Util.Init(EnlighterJS_Config.selector.block,EnlighterJS_Config.selector.inline,EnlighterJS_Config)}):void a("MooTools Framework not loaded yet!")}();;/* ]]> */</script><script type="text/javascript">
+( function( grecaptcha, sitekey, actions ) {
+
+	var wpcf7recaptcha = {
+
+		execute: function( action ) {
+			grecaptcha.execute(
+				sitekey,
+				{ action: action }
+			).then( function( token ) {
+				var forms = document.getElementsByTagName( 'form' );
+
+				for ( var i = 0; i < forms.length; i++ ) {
+					var fields = forms[ i ].getElementsByTagName( 'input' );
+
+					for ( var j = 0; j < fields.length; j++ ) {
+						var field = fields[ j ];
+
+						if ( 'g-recaptcha-response' === field.getAttribute( 'name' ) ) {
+							field.setAttribute( 'value', token );
+							break;
+						}
+					}
+				}
+			} );
+		},
+
+		executeOnHomepage: function() {
+			wpcf7recaptcha.execute( actions[ 'homepage' ] );
+		},
+
+		executeOnContactform: function() {
+			wpcf7recaptcha.execute( actions[ 'contactform' ] );
+		},
+
+	};
+
+	grecaptcha.ready(
+		wpcf7recaptcha.executeOnHomepage
+	);
+
+	document.addEventListener( 'change',
+		wpcf7recaptcha.executeOnContactform, false
+	);
+
+	document.addEventListener( 'wpcf7submit',
+		wpcf7recaptcha.executeOnHomepage, false
+	);
+
+} )(
+	grecaptcha,
+	'6Lf-eGMUAAAAAOjWftsFjZmLha0OjI1Y3sRl5O1G',
+	{"homepage":"homepage","contactform":"contactform"}
+);
+</script>
+</body>
+
+</html>
